@@ -1,0 +1,85 @@
+{% assign prefix = t.prefix %}
+{% if page.section == 'home' %}
+<div id="homeid" class="col-sm-8">
+  <h1>{{ group.name[lang] }}</h1>
+  <p><strong>{% include institutional-text.html text=t.university %}</strong></p>
+  <p>{% assign institutional_value = group.intro[lang] %}{% include institutional-text.html text=institutional_value %}</p>
+  <h3>{{ t.research_title }}</h3>
+  <div class="prose">{% assign institutional_value = group.research.intro[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>
+  <ul class="home-research">{% for topic in group.research.topics %}<li><strong>{{ topic.title[lang] }}</strong><br>{% assign institutional_value = topic.description[lang] %}{% include institutional-text.html text=institutional_value %}</li>{% endfor %}</ul>
+  <p><a href="{{ prefix | append: '/research/' | relative_url }}">{{ t.discover }} &raquo;</a></p>
+  <h3>{{ t.collaborations }}</h3>
+  <div class="prose">{% assign institutional_value = group.research.collaborations[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>
+  <p><a href="{{ prefix | append: '/join/' | relative_url }}">{{ t.join }} &raquo;</a></p>
+
+</div>
+<aside id="newsid" class="col-sm-4">
+  <h3>{{ t.pi_label }}</h3>
+  <img class="img-responsive home-portrait" src="{{ group.pi.photo | relative_url }}" alt="{{ group.pi.name[lang] }}" width="136" height="170">
+  <h4>{{ group.pi.name[lang] }}</h4><p>{{ group.pi.title[lang] }}</p>
+  <p>Email: <a href="mailto:{{ group.pi.email }}">{{ group.pi.email }}</a><br>Tel: <a href="tel:+861058806525">{{ group.pi.phone }}</a></p>
+  <p><a href="{{ prefix | append: '/team/' | relative_url }}">{{ t.profile_title }} &raquo;</a></p>
+  <h3>{{ t.recent_publications }}</h3>
+  {% for paper in site.data.publications limit:3 %}<p><small>{{ paper.year }} · {{ paper.citation | escape }}</small><br><a href="{{ prefix | append: '/publications/' | relative_url }}#publication-{{ paper.id }}" lang="en">{% include publication-title.html title=paper.title %}</a></p>{% endfor %}
+  <p><a href="{{ prefix | append: '/publications/' | relative_url }}">{{ t.publications_title }} &raquo;</a></p>
+  <h3>{{ t.links }}</h3><p><a href="{{ group.pi.scholar_url | escape }}" rel="noopener noreferrer" target="_blank">Google Scholar</a><br><a href="https://orcid.org/0000-0002-0409-1240" rel="noopener noreferrer" target="_blank">ORCID</a></p>
+</aside>
+{% else %}
+<div id="textid" class="col-sm-12">
+{% assign title_key = page.section | append: '_title' %}{% assign description_key = page.section | append: '_description' %}
+<section class="page-header"><div class="container"><p class="eyebrow">{% include institutional-text.html text=t.university %}</p><h1 class="page-title">{{ t[title_key] }}</h1><p class="page-intro">{% assign institutional_value = t[description_key] %}{% include institutional-text.html text=institutional_value %}</p></div></section>
+<section class="section container">
+{% case page.section %}
+{% when 'research' %}
+  <div class="prose">{% assign institutional_value = group.research.intro[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>
+  <div class="research-grid">{% for topic in group.research.topics %}<article class="research-card"><h2>{{ topic.title[lang] }}</h2><div class="prose">{% assign institutional_value = topic.description[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div></article>{% endfor %}</div>
+  <div class="section-heading content-heading"><h2>{{ t.collaborations }}</h2></div><div class="prose">{% assign institutional_value = group.research.collaborations[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>
+  <div class="section-heading content-heading"><h2>{{ t.projects }}</h2></div><ul class="timeline">{% for project in group.research.projects %}<li class="timeline-item"><span class="pill">{{ project.period }}</span><div class="prose">{% assign institutional_value = project.text[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div></li>{% endfor %}</ul>
+{% when 'team' %}
+  <div class="split-layout">{% include pi-card.html plain_institution=true %}<div class="prose"><h2>{{ t.biography }}</h2>{{ group.pi.biography[lang] | escape | markdownify }}</div></div>
+  {% if group.members.size > 0 %}
+  <section class="current-members" aria-labelledby="current-members-heading">
+    <div class="section-heading content-heading"><h2 id="current-members-heading">{{ t.members_title }}</h2></div>
+    {% assign member_categories = 'faculty,postdoc,phd,masters' | split: ',' %}
+    {% for category in member_categories %}
+      {% assign category_members = group.members | where: 'category', category %}
+      {% if category_members.size > 0 %}
+      <h3>{{ t.member_categories[category] }}</h3>
+      <div class="info-grid">
+        {% for member in category_members %}
+        <article class="info-card current-member" data-category="{{ category }}">
+          {% if member.photo %}<img class="profile-portrait" src="{{ member.photo | relative_url }}" alt="{{ member.name[lang] | escape }}" loading="lazy">{% endif %}
+          <h4>{{ member.name[lang] | escape }}</h4><p>{{ member.role[lang] }}</p>
+          {% if member.profile_url %}<p><a href="{{ member.profile_url | escape }}" rel="noopener noreferrer" target="_blank">{{ t.faculty_profile }}</a></p>{% endif %}
+          {% if member.bio[lang] != blank %}<div class="prose">{{ member.bio[lang] | escape | markdownify }}</div>{% endif %}
+        </article>
+        {% endfor %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+{% when 'pi' %}
+  <div class="prose"><h2>{{ t.biography }}</h2>{{ group.pi.biography[lang] | escape | markdownify }}</div>
+  {% assign timeline_sections = 'education,appointments,honors,services' | split: ',' %}
+  {% for timeline_section in timeline_sections %}{% assign records = group.pi[timeline_section] %}{% if records.size > 0 %}<div class="section-heading content-heading"><h2>{{ t[timeline_section] }}</h2></div><ul class="timeline">{% for record in records %}<li class="timeline-item">{% if record.period %}<span class="pill">{{ record.period_display[lang] | default: record.period | escape }}</span>{% endif %}<div class="prose">{{ record.text[lang] | escape | markdownify }}</div></li>{% endfor %}</ul>{% endif %}{% endfor %}
+{% when 'alumni' %}
+  <p class="section-note">{{ group.student_guidance.masters_note[lang] }}</p><div class="info-grid" id="alumni">{% for alumnus in group.student_guidance.alumni %}<article class="info-card"><p class="eyebrow">{{ alumnus.degree[lang] }}</p><h3>{{ alumnus.name[lang] }}</h3><p class="pill">{{ alumnus.period }}</p><h4>{{ t.thesis }}</h4><p>{{ alumnus.thesis[lang] }}</p><h4>{{ t.destination }}</h4><p>{% assign institutional_value = alumnus.destination[lang] %}{% include institutional-text.html text=institutional_value %}</p></article>{% endfor %}</div>
+{% when 'teaching' %}
+  <div class="section-heading"><h2>{{ t.courses }}</h2></div><ul class="feature-list">{% for course in group.teaching %}<li>{% assign institutional_value = course[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</li>{% endfor %}</ul>
+  <div class="section-heading content-heading"><h2>{{ t.guidance }}</h2></div><div class="prose">{% assign institutional_value = group.student_guidance.summary[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>
+  <div class="section-heading content-heading"><h2>{{ t.undergraduate }}</h2></div><div class="prose">{% assign institutional_value = group.student_guidance.undergraduate_summary[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div><div class="info-grid">{% for project in group.student_guidance.projects %}<article class="info-card"><span class="pill">{{ project.period }}</span><h3>{{ project.title[lang] }}</h3><div class="prose">{% assign institutional_value = project.description[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div></article>{% endfor %}</div>
+{% when 'publications' %}
+  <div class="publication-filters"><div class="publication-search"><label for="publication-search">{{ t.search_label }}</label><input id="publication-search" type="search" placeholder="{{ t.search }}" aria-controls="publication-list" autocomplete="off"></div><div><label for="publication-year">{{ t.year_label }}</label><select id="publication-year" aria-controls="publication-list"><option value="">{{ t.all_years }}</option>{% assign publication_years = site.data.publications | map: 'year' | uniq | sort | reverse %}{% for year in publication_years %}<option value="{{ year }}">{{ year }}</option>{% endfor %}</select></div><div><label for="publication-type">{{ t.type_label }}</label><select id="publication-type" aria-controls="publication-list"><option value="">{{ t.all_types }}</option><option value="paper">{{ t.paper }}</option><option value="preprint">{{ t.preprint }}</option><option value="book">{{ t.book }}</option></select></div></div>
+  <p id="publication-empty" class="status-note" role="status" hidden>{{ t.no_matches }}</p>
+  <ol class="publication-list" id="publication-list" reversed>{% for paper in site.data.publications %}{% assign paper_type = 'paper' %}{% if paper.status == 'preprint' %}{% assign paper_type = 'preprint' %}{% endif %}{% if paper.kind == 'book' %}{% assign paper_type = 'book' %}{% endif %}<li class="publication-item" data-year="{{ paper.year }}" data-type="{{ paper_type }}" data-search="{{ paper.title_aliases | join: ' ' | escape }} {{ paper.title_aliases_zh | join: ' ' | escape }} {{ paper.arxiv_id | escape }}" id="publication-{{ paper.id }}"><p class="publication-meta">{{ paper.year }} · {{ t[paper_type] }}{% if paper.highlight %} <span class="pill">{{ t.representative }}</span>{% endif %}</p>{% assign publication_url = paper.url | default: '' %}{% if paper.doi %}{% assign publication_url = 'https://doi.org/' | append: paper.doi %}{% endif %}{% if publication_url contains 'scholar.google.' %}{% assign publication_url = '' %}{% endif %}<h2 class="publication-title" lang="en">{% if publication_url != '' %}<a href="{{ publication_url | escape }}" rel="noopener noreferrer" target="_blank">{% endif %}{% include publication-title.html title=paper.title %}{% if publication_url != '' %}</a>{% endif %}</h2>{% if lang == 'zh' %}<p class="publication-original" lang="zh-CN">{% include publication-title.html title=paper.title_zh %}</p>{% endif %}<p class="publication-authors">{{ paper.authors | escape }}</p><p class="publication-citation">{{ paper.citation | escape }}</p><p class="publication-links">{% if paper.doi %}<a href="https://doi.org/{{ paper.doi }}" rel="noopener noreferrer" target="_blank">DOI: {{ paper.doi }}</a>{% endif %}{% if paper.arxiv_url %}<a href="{{ paper.arxiv_url | escape }}" rel="noopener noreferrer" target="_blank">arXiv: {{ paper.arxiv_id }}</a>{% endif %}</p></li>{% endfor %}</ol>
+  <div class="section-heading content-heading"><h2>{{ t.patents }}</h2></div><p class="section-note">{{ t.patent_note }}</p><ul class="feature-list">{% for patent in group.patents %}<li>{{ patent[lang] | markdownify }}</li>{% endfor %}</ul>
+{% when 'join' %}
+  <div class="split-layout"><div class="prose">{% assign institutional_value = group.recruitment[lang] %}{% include institutional-text.html text=institutional_value markdown=true %}</div>{% include pi-card.html %}</div>
+{% when 'contact' %}
+  <div class="info-grid"><article class="info-card"><p class="eyebrow">{{ t.pi_label }}</p><h2>{{ group.pi.name[lang] }}</h2><p>{{ group.pi.title[lang] }}</p><h3>{{ t.email }}</h3><p><a href="mailto:{{ group.pi.email }}">{{ group.pi.email }}</a></p><h3>{{ t.phone }}</h3><p><a href="tel:+861058806525">{{ group.pi.phone }}</a></p><h3>{{ t.office }}</h3><p>{{ group.pi.office[lang] | escape }}</p></article><article class="info-card"><h2>{{ t.address }}</h2><p>{{ group.contact.address[lang] | escape }}</p><p>{{ t.postcode }}: {{ group.contact.postcode }}</p><h3>{{ t.links }}</h3><ul class="feature-list">{% for link in group.links %}<li><a href="{{ link.url }}" rel="noopener noreferrer" target="_blank">{{ link.label[lang] }}</a></li>{% endfor %}</ul></article></div>
+{% endcase %}
+
+</section>
+</div>
+{% endif %}

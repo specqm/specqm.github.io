@@ -1,0 +1,574 @@
+name:
+  zh: 量子材料散射谱学课题组
+  en: BNU-SpecQM
+intro:
+  zh: 我们是由鲁兴业教授领导的北京师范大学量子材料散射谱学课题组。
+  en: We are BNU-SpecQM, the quantum materials scattering spectroscopy group at Beijing Normal University led by
+    Professor Xingye Lu.
+pi:
+  name:
+    zh: 鲁兴业
+    en: Xingye Lu
+  title:
+    zh: 教授 · 博士生导师 · 课题组 PI
+    en: Professor · Doctoral supervisor · Principal Investigator
+  photo: /assets/images/xingye-lu.jpg
+  biography:
+    zh: 鲁兴业，北京师范大学教授、博士生导师，量子材料散射谱学课题组 PI。2008 年获河北大学理学学士学位，2014 年获中国科学院物理研究所理学博士学位；曾在美国田纳西大学、莱斯大学和瑞士保罗谢勒研究所开展访问与博士后研究。2017
+      年加入北京师范大学物理学系／高等量子研究中心，研究关联电子材料的结构、有序相与动力学。
+    en: Xingye Lu is a professor and doctoral supervisor at Beijing Normal University, where he leads BNU-SpecQM.
+      He received a B.Sc. from Hebei University in 2008 and a Ph.D. in Science from the Institute of Physics, Chinese
+      Academy of Sciences, in 2014. He held visiting and postdoctoral positions at the University of Tennessee,
+      Rice University and the Paul Scherrer Institute before joining BNU’s Department of Physics / Center for Advanced
+      Quantum Studies in 2017. His research concerns the structure, ordered phases and dynamics of correlated electron
+      materials.
+  email: luxy@bnu.edu.cn
+  phone: +86-10-58806525
+  office:
+    zh: 北京师范大学科技楼C416
+    en: Room C416, Science and Technology Building, Beijing Normal University
+  education:
+  - period: 2008.09–2014.06
+    text:
+      zh: 中国科学院物理研究所，理学博士。
+      en: Ph.D. in Science, Institute of Physics, Chinese Academy of Sciences.
+  - period: 2011.11–2012.11
+    text:
+      zh: 美国田纳西大学物理与天文系，访问学者。
+      en: Visiting scholar, Department of Physics and Astronomy, University of Tennessee, USA.
+  - period: 2004.09–2008.06
+    text:
+      zh: 河北大学，理学学士。
+      en: B.Sc., Hebei University.
+  appointments:
+  - period: 2019.09–
+    period_display:
+      zh: 2019.9-至今
+      en: 2019.9–present
+    text:
+      zh: 北京师范大学物理学系／高等量子研究中心，教授。
+      en: Professor, Department of Physics / Center for Advanced Quantum Studies, Beijing Normal University.
+  - period: 2017.02–2019.08
+    text:
+      zh: 北京师范大学物理学系／高等量子研究中心，青年研究员。
+      en: Young research fellow, Department of Physics / Center for Advanced Quantum Studies, Beijing Normal University.
+  - period: 2015.02–2016.12
+    text:
+      zh: 保罗谢勒研究所瑞士光源，博士后（PSI Fellow）。
+      en: Postdoctoral researcher (PSI Fellow), Swiss Light Source, Paul Scherrer Institute, Switzerland.
+  - period: 2014.11–2015.01
+    text:
+      zh: 美国莱斯大学物理与天文系，访问学者。
+      en: Visiting scholar, Department of Physics and Astronomy, Rice University, USA.
+  - period: 2014.07–2014.10
+    text:
+      zh: 中国科学院物理研究所，研究助理。
+      en: Research assistant, Institute of Physics, Chinese Academy of Sciences.
+  honors:
+  - period: '2022'
+    text:
+      zh: 北京师范大学优秀辅导员。
+      en: Outstanding Student Counselor, Beijing Normal University.
+  - period: '2020'
+    text:
+      zh: 北京师范大学优秀辅导员。
+      en: Outstanding Student Counselor, Beijing Normal University.
+  - period: '2016'
+    text:
+      zh: Springer Thesis Award。
+      en: Springer Thesis Award.
+  - period: '2015'
+    text:
+      zh: Paul Scherrer Institut（PSI）Fellow。
+      en: Paul Scherrer Institut (PSI) Fellow.
+  - period: '2015'
+    text:
+      zh: 中国科学院优秀博士论文奖。
+      en: Outstanding Doctoral Dissertation Award, Chinese Academy of Sciences.
+  - period: '2014'
+    text:
+      zh: 中国科学院院长奖学金特别奖。
+      en: Special Prize of the President’s Scholarship, Chinese Academy of Sciences.
+  - period: '2013'
+    text:
+      zh: 中国科学院物理研究所所长奖学金优秀奖。
+      en: Excellence Award of the Director’s Scholarship, Institute of Physics, Chinese Academy of Sciences.
+  services:
+  - text:
+      zh: 担任 Nature Materials、Nature Communications、The Innovation、Physical Review X、Physical Review Letters、Physical
+        Review B、Communications Physics 等学术期刊的审稿人。
+      en: Referee for Nature Materials, Nature Communications, The Innovation, Physical Review X, Physical Review
+        Letters, Physical Review B, Communications Physics and other academic journals.
+  profile_url: https://physicsfaculty.bnu.edu.cn/teacher/357/index.html
+  scholar_url: https://scholar.google.com/citations?user=e8NApV0AAAAJ&hl=en&sortby=pubdate
+research:
+  intro:
+    zh: 研究组拥有设施先进的样品生长和表征实验室，主要采用输运、中子散射和共振非弹性 X 射线散射研究关联电子材料中的量子态、演生序及其相关涨落。结合多种实验和表征手段，我们研究新奇关联电子材料的结构、有序相和动力学。
+    en: Our group has advanced facilities for sample growth and characterization. We use transport measurements,
+      neutron scattering and resonant inelastic X-ray scattering to study quantum states, emergent orders and their
+      associated fluctuations in correlated electron materials. By combining these experimental and characterization
+      techniques, we investigate their structure, ordered phases and dynamics.
+  collaborations:
+    zh: 学生有机会赴欧洲和美国的中子源、同步辐射光源开展实验，与国际科学家交流学习。依托研究组与美国莱斯大学、瑞士保罗谢勒研究所建立的长期合作关系，学生也有长期出国访问交流的机会。
+    en: Students have opportunities to carry out experiments at neutron and synchrotron sources in Europe and the
+      USA and to work with international scientists. Long-standing collaborations with Rice University and the Paul
+      Scherrer Institute also provide opportunities for extended research visits abroad.
+  topics:
+  - title:
+      zh: 高温超导体
+      en: High-temperature superconductors
+    description:
+      zh: 研究材料包括铁基和铜氧化物高温超导体，关注关联电子材料中的量子态、演生序及其相关涨落。
+      en: Our materials include iron-based and cuprate high-temperature superconductors. We investigate quantum
+        states, emergent orders and their fluctuations in these correlated electron systems.
+  - title:
+      zh: 量子磁性与量子自旋液体
+      en: Quantum magnetism and quantum spin liquids
+    description:
+      zh: 研究材料包括低维量子磁体和量子自旋液体，结合多种实验手段研究其结构、有序相与动力学。
+      en: Our materials include low-dimensional quantum magnets and quantum spin liquids. We combine complementary
+        experiments to study their structure, ordered phases and dynamics.
+  - title:
+      zh: 5d 过渡金属氧化物
+      en: 5d transition-metal oxides
+    description:
+      zh: 研究材料包括 5d 过渡金属氧化物，例如铱氧化物。通过中子散射与共振非弹性 X 射线散射等方法探测相关激发。
+      en: Our materials include 5d transition-metal oxides, such as iridates. Neutron scattering, resonant inelastic
+        X-ray scattering and complementary techniques probe their excitations.
+  - title:
+      zh: 样品生长、表征与散射谱学
+      en: Crystal growth, characterization and scattering spectroscopy
+    description:
+      zh: 在实验室开展样品生长、表征和输运测量；中子散射和共振非弹性 X 射线散射实验一般在欧洲和美国的中子源、同步辐射光源开展。
+      en: We grow and characterize samples and perform transport measurements in our laboratories. Neutron scattering
+        and resonant inelastic X-ray scattering experiments are generally performed at neutron and synchrotron sources
+        in Europe and the USA.
+  projects:
+  - period: 2021.12–2026.11
+    text:
+      zh: 科技部“物态调控”重点研发计划，605 万元，课题主持。
+      en: Ministry of Science and Technology key R&D program on regulation of states of matter; RMB 6.05 million;
+        subproject leader.
+  - period: 2024.01–2025.12
+    text:
+      zh: 北京师范大学“优秀青年创新团队”项目，400 万元，项目骨干。
+      en: Beijing Normal University “Outstanding Young Innovation Team” project; RMB 4.00 million; core team member.
+  - period: 2022.01–2025.12
+    text:
+      zh: 国家自然科学基金面上项目，61 万元，主持。
+      en: National Natural Science Foundation of China (NSFC) General Program; RMB 610,000; Principal Investigator.
+  - period: 2020.01–2022.12
+    text:
+      zh: 国家自然科学基金优秀青年科学基金，主持。
+      en: NSFC Excellent Young Scientists Fund; Principal Investigator.
+  - period: 2018.01–2022.12
+    text:
+      zh: 国家自然科学基金重点项目，参与。
+      en: NSFC Key Program; participant.
+members:
+- category: faculty
+  name:
+    zh: 谈国太
+    en: Guotai Tan
+  role:
+    zh: 副教授
+    en: Associate professor
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+  profile_url: https://physicsfaculty.bnu.edu.cn/teacher/328/index.html
+- category: postdoc
+  name:
+    zh: 刘瑞鲜
+    en: Ruixian Liu
+  role:
+    zh: 博士后
+    en: Postdoctoral researcher
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 刘畅
+    en: Chang Liu
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 李春熠
+    en: Chunyi Li
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 黄心如
+    en: Xinru Huang
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 张文婷
+    en: Wenting Zhang
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 张业天
+    en: Yetian Zhang
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 冯梦航
+    en: Menghang Feng
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 李雨桐
+    en: Yutong Li
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: phd
+  name:
+    zh: 骆娅婷
+    en: Yating Luo
+  role:
+    zh: 博士生
+    en: Ph.D. student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 谢翰清
+    en: Hanqing Xie
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 宋雨
+    en: Yu Song
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 董烨语
+    en: Yeyu Dong
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 莫子夜
+    en: Ziye Mo
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 贾一凡
+    en: Yifan Jia
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 李婉仪
+    en: Wanyi Li
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 齐泽宁
+    en: Zening Qi
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 袁望
+    en: Wang Yuan
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 田欣阳
+    en: Xinyang Tian
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 郭婷
+    en: Ting Guo
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+- category: masters
+  name:
+    zh: 叶云希
+    en: Yunxi Ye
+  role:
+    zh: 硕士生
+    en: Master’s student
+  photo: null
+  bio:
+    zh: ''
+    en: ''
+teaching:
+- zh: 本科生课程：《近代物理学》（春季学期，主讲）。
+  en: 'Undergraduate: Modern Physics (spring semester; lead instructor).'
+- zh: 本科生课程：《近代物理实验 II》（参与）。
+  en: 'Undergraduate: Modern Physics Laboratory II (contributing instructor).'
+- zh: 本科生课程：《凝聚态物理前沿选讲》（参与）。
+  en: 'Undergraduate: Selected Frontiers of Condensed Matter Physics (contributing instructor).'
+- zh: 研究生课程：《磁性探测与分析》（秋季学期，参与）。
+  en: 'Graduate: Magnetic Probing and Analysis (autumn semester; contributing instructor).'
+student_guidance:
+  masters_note:
+    zh: 部分硕士生与谈国太副教授共同指导。
+    en: Some master’s students were jointly supervised with Associate Professor Guotai Tan.
+  summary:
+    zh: 已毕业博士生5人，硕士生8人。目前在读博士生8人，硕士生11人。
+    en: Five Ph.D. students and eight master’s students have graduated. Currently supervising eight Ph.D. students
+      and eleven master’s students.
+  undergraduate_summary:
+    zh: 2018年以来，指导本科生毕业论文25人次。
+    en: Supervised 25 undergraduate theses since 2018.
+  alumni:
+  - name:
+      zh: 田龙
+      en: Long Tian
+    degree:
+      zh: 博士
+      en: Ph.D.
+    period: 2015.09–2021.06
+    thesis:
+      zh: 铁基超导体 Ba(Fe1−xCox)2As2 和 Fe1+yTe1−xSex 的中子散射研究
+      en: Neutron scattering studies of the iron-based superconductors Ba(Fe1−xCox)2As2 and Fe1+yTe1−xSex
+    destination:
+      zh: 中国散裂中子源，博士后。
+      en: Postdoctoral researcher, China Spallation Neutron Source.
+  - name:
+      zh: 刘盼盼
+      en: Panpan Liu
+    degree:
+      zh: 博士
+      en: Ph.D.
+    period: 2016.09–2021.06
+    thesis:
+      zh: 铁基超导体 BaFe2−xNixAs2 中磁有序和自旋动力学的中子散射研究
+      en: Neutron scattering studies of magnetic order and spin dynamics in the iron-based superconductor BaFe2−xNixAs2
+    destination:
+      zh: 北京市广渠门中学，教师。
+      en: Teacher, Beijing Guangqumen Middle School.
+  - name:
+      zh: 潘俊香
+      en: Junxiang Pan
+    degree:
+      zh: 硕士
+      en: Master’s
+    period: 2017.09–2020.06
+    thesis:
+      zh: Eu(Fe1−xCox)2As2 单晶样品的生长与物性研究
+      en: Growth and physical properties of Eu(Fe1−xCox)2As2 single crystals
+    destination:
+      zh: 陕西省选调生。
+      en: Selected graduate for public service in Shaanxi Province.
+  - name:
+      zh: 戴鹏玲
+      en: Pengling Dai
+    degree:
+      zh: 硕士
+      en: Master’s
+    period: 2018.09–2021.06
+    thesis:
+      zh: NaYbSe2 量子自旋液体态的中子散射研究
+      en: Neutron scattering studies of the quantum spin-liquid state in NaYbSe2
+    destination:
+      zh: 北京市广渠门中学，教师。
+      en: Teacher, Beijing Guangqumen Middle School.
+  - name:
+      zh: 赵子楠
+      en: Zinan Zhao
+    degree:
+      zh: 硕士
+      en: Master’s
+    period: 2018.09–2021.06
+    thesis:
+      zh: 铁基超导体超导电性的单轴形变的调控及其研究
+      en: Uniaxial-strain control and investigation of superconductivity in iron-based superconductors
+    destination:
+      zh: 赴北京大学攻读博士。
+      en: Doctoral studies at Peking University.
+  - name:
+      zh: 刘增华
+      en: Zenghua Liu
+    degree:
+      zh: 硕士
+      en: Master’s
+    period: 2019.09–2022.06
+    thesis:
+      zh: 单轴形变光学低温恒温器 ST500 的 LabVIEW 搭建与调试
+      en: LabVIEW implementation and commissioning of the ST500 uniaxial-strain optical cryostat
+    destination:
+      zh: 深圳第二高级中学，教师。
+      en: Teacher, Shenzhen Second Senior High School.
+  - name:
+      zh: 周凯娟
+      en: Kaijuan Zhou
+    degree:
+      zh: 硕士
+      en: Master’s
+    period: 2020.09–2023.06
+    thesis:
+      zh: 铁基超导体中有序态的单轴应变调控
+      en: Uniaxial-strain tuning of ordered states in iron-based superconductors
+    destination:
+      zh: 西安市西航一中。
+      en: Xi’an Xihang No. 1 Middle School.
+  projects:
+  - period: 2021–2022
+    title:
+      zh: 量子自旋液体候选材料中的杂质效应研究
+      en: Impurity effects in candidate quantum spin-liquid materials
+    description:
+      zh: 刘小琪（北大读研）、曾梓伦（北邮读研）、黄琼莹（北师大读研）；结题优秀。
+      en: Xiaoqi Liu (刘小琪; graduate studies at Peking University), Zilun Zeng (曾梓伦; graduate studies at Beijing
+        University of Posts and Telecommunications) and Qiongying Huang (黄琼莹; graduate studies at BNU). The project
+        received an excellent completion rating.
+  - period: 2022–2023
+    title:
+      zh: 二维范德华铁磁体的单轴应变调控研究
+      en: Uniaxial-strain control of two-dimensional van der Waals ferromagnets
+    description:
+      zh: 傅莉（推免至北大）、李京祺（推免至物理所）、沈德坤（考研北师大）；国创立项，结题优秀。
+      en: Li Fu (傅莉; recommended admission to Peking University), Jingqi Li (李京祺; recommended admission to the Institute
+        of Physics) and Dekun Shen (沈德坤; admission to BNU through the postgraduate entrance examination). Approved
+        as a national undergraduate innovation project; received an excellent completion rating.
+  - period: 2022–2023
+    title:
+      zh: Fe₂ₙ₋₁Snₙ 和 CsV₃Sb₅ 材料中电子态的单轴应变调控研究
+      en: Uniaxial-strain tuning of electronic states in Fe₂ₙ₋₁Snₙ and CsV₃Sb₅
+    description:
+      zh: 周秋韵（推免至清华）、王怀平（推免至北大）、杨晓冉（推免至浙大）；结题发表研究论文一篇。
+      en: Qiuyun Zhou (周秋韵; recommended admission to Tsinghua University), Huaiping Wang (王怀平; recommended admission
+        to Peking University) and Xiaoran Yang (杨晓冉; recommended admission to Zhejiang University). One research
+        paper was published on completion.
+patents:
+- zh: 刘瑞鲜、鲁兴业：一种用于层状单晶样品退孪晶的装置及方法。已授权；申请号 CN202210401544.3。
+  en: 'Ruixian Liu and Xingye Lu: Apparatus and method for detwinning layered single-crystal samples. Granted patent;
+    application no. CN202210401544.3.'
+recruitment:
+  zh: 欢迎对量子材料与散射谱学感兴趣的同学申请硕士、博士研究生，或参与本科生科研训练。课题组开展样品生长、物性表征、输运测量、中子散射和共振非弹性 X 射线散射研究，并依托与莱斯大学、保罗谢勒研究所的长期合作开展国际交流。如需了解研究方向和培养安排，请联系鲁兴业教授：[luxy@bnu.edu.cn](mailto:luxy@bnu.edu.cn)。
+  en: We welcome applications for master’s and Ph.D. study, as well as undergraduate participation in research.
+    BNU-SpecQM combines sample growth, materials characterization, transport measurements, neutron scattering and
+    resonant inelastic X-ray scattering, with international exchange through long-standing collaborations with Rice
+    University and the Paul Scherrer Institute. To discuss research interests and training, please contact Professor
+    Xingye Lu at [luxy@bnu.edu.cn](mailto:luxy@bnu.edu.cn).
+contact:
+  address:
+    zh: 北京市海淀区新街口外大街 19 号，北京师范大学科技楼C416
+    en: Room C416, Science and Technology Building, Beijing Normal University,
+      19 Xinjiekouwai Street, Haidian District, Beijing, China
+  postcode: '100875'
+links:
+- label:
+    zh: 北师大教师主页
+    en: BNU faculty profile
+  url: https://physicsfaculty.bnu.edu.cn/teacher/357/index.html
+- label:
+    zh: 旧版信息页
+    en: Previous faculty information page
+  url: http://virphysics.bnu.edu.cn/web/application/faculty/luxingye/index.htm
+- label:
+    zh: 谷歌学术
+    en: Google Scholar
+  url: https://scholar.google.com/citations?user=e8NApV0AAAAJ&hl=en
+- label:
+    zh: ORCID
+    en: ORCID
+  url: https://orcid.org/0000-0002-0409-1240

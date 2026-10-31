@@ -1,0 +1,159 @@
+zh:
+  code: zh-CN
+  prefix: ''
+  university: 北京师范大学
+  skip: 跳至正文
+  menu: 导航菜单
+  navigation: 主导航
+  home: 首页
+  research: 研究方向
+  team: 课题组成员
+  pi: PI
+  publications: 学术成果
+  teaching: 教学与培养
+  join: 加入我们
+  contact: 联系方式
+  switch: English
+  switch_label: Read this page in English
+  discover: 了解我们的研究
+  pi_label: 课题组负责人
+  profile: Principal Investigator
+  profile_title: 鲁兴业教授
+  faculty_profile: 北师大教师主页
+  home_title: 首页
+  research_title: 研究方向
+  research_description: 结合样品生长、输运测量、中子散射与共振非弹性 X 射线散射，研究关联电子材料。
+  team_title: 课题组成员
+  team_description: 北京师范大学 · 量子材料散射谱学课题组
+  pi_title: PI
+  pi_description: 鲁兴业教授 · 课题组负责人
+  members_title: 在组成员
+  member_categories:
+    faculty: 教师
+    postdoc: 博士后
+    phd: 博士生
+    masters: 硕士生
+  biography: 个人简介
+  education: 教育经历
+  appointments: 工作经历
+  honors: 荣誉奖励
+  services: 学术服务
+  projects: 科研项目
+  collaborations: 国际合作与交流
+  alumni: 往年学生
+  alumni_title: 往年学生
+  alumni_description: 博士、硕士毕业生及毕业去向。
+  thesis: 学位论文
+  destination: 毕业去向
+  undergraduate: 本科生指导与科研训练
+  teaching_title: 教学与培养
+  teaching_description: 课程教学、研究生指导与本科生科研训练。
+  courses: 课程教学
+  guidance: 学生指导
+  recent_publications: 近期成果
+  publications_title: 学术成果
+  publications_description: 研究论文、预印本与专著。
+  search: 搜索标题、作者、年份或 DOI
+  search_label: 搜索学术成果
+  year_label: 年份
+  all_years: 全部年份
+  type_label: 类型
+  all_types: 全部类型
+  paper: 期刊论文
+  preprint: 预印本
+  book: 专著
+  representative: 代表性成果
+  no_matches: 未找到符合条件的成果。
+  patents: 发明专利
+  patent_note: 已授权专利。
+  join_title: 加入我们
+  join_description: 开展研究，与国际同行交流。
+  contact_title: 联系方式
+  contact_description: 北京师范大学物理与天文学院 · 高等量子研究中心
+  email: 电子邮箱
+  phone: 办公电话
+  office: 办公地点
+  address: 通讯地址
+  postcode: 邮政编码
+  links: 学术链接
+  not_found_title: 页面未找到
+en:
+  code: en
+  prefix: /en
+  university: Beijing Normal University
+  skip: Skip to content
+  menu: Menu
+  navigation: Main navigation
+  home: Home
+  research: Research
+  team: People
+  pi: PI
+  publications: Publications
+  teaching: Teaching
+  join: Join us
+  contact: Contact
+  switch: 中文
+  switch_label: 阅读此页面的中文版
+  discover: Explore our research
+  pi_label: Principal Investigator
+  profile: Principal Investigator
+  profile_title: Professor Xingye Lu
+  faculty_profile: BNU faculty profile
+  home_title: Home
+  research_title: Research
+  research_description: Investigating correlated electron materials through crystal growth, transport, neutron scattering
+    and resonant inelastic X-ray scattering.
+  team_title: People
+  team_description: BNU-SpecQM · Beijing Normal University
+  pi_title: PI
+  pi_description: Professor Xingye Lu · Principal Investigator
+  members_title: Current members
+  member_categories:
+    faculty: Faculty
+    postdoc: Postdoctoral researchers
+    phd: Ph.D. students
+    masters: Master’s students
+  biography: Biography
+  education: Education
+  appointments: Appointments
+  honors: Honors and awards
+  services: Academic service
+  projects: Research projects
+  collaborations: International collaboration
+  alumni: Alumni
+  alumni_title: Alumni
+  alumni_description: Doctoral and master’s alumni and their destinations after graduation.
+  thesis: Thesis
+  destination: Destination after graduation
+  undergraduate: Undergraduate supervision and research training
+  teaching_title: Teaching and supervision
+  teaching_description: Courses, graduate supervision and undergraduate research training.
+  courses: Courses
+  guidance: Student supervision
+  recent_publications: Recent publications
+  publications_title: Publications
+  publications_description: Research papers, preprints and a monograph.
+  search: Search by title, author, year or DOI
+  search_label: Search publications
+  year_label: Year
+  all_years: All years
+  type_label: Type
+  all_types: All types
+  paper: Journal article
+  preprint: Preprint
+  book: Monograph
+  representative: Selected work
+  no_matches: No publications match your search.
+  patents: Patent
+  patent_note: Granted patent.
+  join_title: Join us
+  join_description: Research with opportunities for international exchange.
+  contact_title: Contact
+  contact_description: School of Physics and Astronomy · Center for Advanced Quantum Studies
+  email: Email
+  phone: Office telephone
+  office: Office
+  address: Mailing address
+  postcode: Postal code
+  links: Academic links
+  not_found_title: Page not found

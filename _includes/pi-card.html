@@ -1,0 +1,4 @@
+<div class="profile-card">
+  <img class="profile-portrait" src="{{ group.pi.photo | relative_url }}" alt="{{ group.pi.name[lang] }}" width="136" height="170" loading="lazy">
+  <div class="profile-summary"><p class="eyebrow">{{ t.profile }}</p><h2>{{ group.pi.name[lang] }}</h2><p>{{ group.pi.title[lang] }}</p><p>{% if include.plain_institution %}{{ t.university | escape }}{% else %}{% include institutional-text.html text=t.university %}{% endif %}</p><a href="{{ group.pi.profile_url }}" class="button button-secondary" rel="noopener noreferrer" target="_blank">{{ t.faculty_profile }}</a></div>
+</div>

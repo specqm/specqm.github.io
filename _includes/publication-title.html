@@ -1,0 +1,12 @@
+{%- assign publication_title_html = include.title | default: '' | escape -%}
+{%- assign publication_title_rules = site.data.chemical_formulas | concat: site.data.publication_symbols -%}
+{%- for formula in publication_title_rules -%}
+  {%- assign formula_text = formula.text | escape -%}
+  {%- capture formula_token -%}__PUBLICATION_FORMULA_{{ forloop.index }}__{%- endcapture -%}
+  {%- assign publication_title_html = publication_title_html | replace: formula_text, formula_token -%}
+{%- endfor -%}
+{%- for formula in publication_title_rules -%}
+  {%- capture formula_token -%}__PUBLICATION_FORMULA_{{ forloop.index }}__{%- endcapture -%}
+  {%- assign publication_title_html = publication_title_html | replace: formula_token, formula.html -%}
+{%- endfor -%}
+<span class="publication-title-text">{{- publication_title_html -}}</span>

@@ -1,0 +1,20 @@
+<a class="skip-link" href="#main">{{ t.skip }}</a>
+<header class="navbar navbar-default navbar-fixed-top site-header" id="top" role="banner">
+  <div class="container-fluid header-inner">
+    {% assign home_url = t.prefix | append: '/' %}
+    <div class="navbar-header">
+      <button class="navbar-toggle nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false"><span class="sr-only">{{ t.menu }}</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+      {% if lang == 'zh' %}<div class="navbar-brand site-brand"><a class="navbar-link" href="{{ home_url | relative_url }}">鲁兴业课题组</a> @ <a class="navbar-link" href="https://www.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">北京师范大学</a></div>{% else %}<a class="navbar-brand site-brand" href="{{ home_url | relative_url }}">BNU-SpecQM</a>{% endif %}
+    </div>
+    <nav class="collapse navbar-collapse primary-nav" id="primary-nav" aria-label="{{ t.navigation }}">
+      <ul class="nav navbar-nav navbar-right">
+      {% assign sections = 'home,pi,research,publications,team,alumni,teaching,join,contact' | split: ',' %}
+      {% for section in sections %}
+        {% if section == 'home' %}{% assign nav_url = home_url %}{% else %}{% assign nav_url = t.prefix | append: '/' | append: section | append: '/' %}{% endif %}
+        <li{% if page.section == section %} class="active"{% endif %}><a class="nav-link{% if page.section == section %} is-active{% endif %}" href="{{ nav_url | relative_url }}"{% if page.section == section %} aria-current="page"{% endif %}>{{ t[section] }}</a></li>
+      {% endfor %}
+        <li><a class="language-switch" href="{{ page.alternate | default: '/' | relative_url }}" lang="{% if lang == 'en' %}zh-CN{% else %}en{% endif %}" hreflang="{% if lang == 'en' %}zh-CN{% else %}en{% endif %}" aria-label="{{ t.switch_label }}">{{ t.switch }}</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

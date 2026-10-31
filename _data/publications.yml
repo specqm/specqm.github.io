@@ -1,0 +1,1527 @@
+- id: scholar-q-HalDI95KYC
+  year: 2026
+  title: Room-temperature topological spin textures via cobalt substitution in a kagome antiferromagnet
+  title_zh: 通过钴替代在笼目反铁磁体中实现室温拓扑自旋织构
+  authors: Shaohua Fan; Zinan Zhao; Baochun Wu; Zhongchong Lin; Yuxuan Peng; Xiaobai Ma; Jianxiang Gao; Yuanhua
+    Xia; Hao Li; Zhiming Xu; Shilei Ding; Wenyun Yang; Yingying Peng; Zhaochu Luo; Honglin Du; Xingye Lu; Jinbo
+    Yang
+  citation: npj Quantum Materials (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41535-026-00947-8
+  url: https://doi.org/10.1038/s41535-026-00947-8
+- id: scholar-SjuI4pbJlxcC
+  year: 2026
+  title: Twinning of domains and spin anisotropy in K5Fe4Ag6Te10
+  title_zh: K5Fe4Ag6Te10 中的磁畴孪晶与自旋各向异性
+  authors: Jiayu Guo; Hengyang Zhong; Dongsheng Yuan; Xuejuan Gui; Youzhe Chen; Nathan Giles-Donovan; Naomi Kawamura;
+    Masaaki Matsuda; Yaohua Liu; Feng Ye; Rongyan Chen; Robert J. Birgeneau; Xingye Lu; Jincheng Wang; Yu Song
+  citation: Physical Review B 114, 175116 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/y7tn-ptpw
+  url: https://doi.org/10.1103/y7tn-ptpw
+- id: scholar-Ade32sEp0pkC
+  year: 2026
+  title: Winding feature and thermal evolution of the gapped Dirac magnons in CrI3
+  title_zh: CrI3 中有隙狄拉克磁振子的绕转特征与热演化
+  authors: Weiliang Yao; Matthew B. Stone; Colin L. Sarkis; Yi Li; Ruixian Liu; Xingye Lu; Pengcheng Dai
+  citation: Physical Review B 114, 134413 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/1rmh-8msr
+  url: https://doi.org/10.1103/1rmh-8msr
+  arxiv_id: '2605.06291'
+  arxiv_url: https://arxiv.org/abs/2605.06291
+  title_aliases:
+  - Winding feature and thermal evolution of the Dirac magnons in CrI3
+  title_aliases_zh:
+  - CrI3 中狄拉克磁振子的绕转特征与热演化
+- id: user-aps-75-20260632
+  year: 2026
+  title: Magnetic structure of the iron-based superconductor derived system CaCo2As2
+  title_zh: 铁基超导体衍生体系 CaCo2As2 的磁结构
+  authors: Zening Qi; Wang Yuan; Erxi Feng; Huibo Cao; Xingye Lu
+  citation: Acta Physica Sinica 75, 190712 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.7498/aps.75.20260632
+  url: https://doi.org/10.7498/aps.75.20260632
+- id: scholar-WC9gN4BGCRcC
+  year: 2026
+  title: Nematic spin correlations and orbital-selective spin excitations in iron-based superconductors
+  title_zh: 铁基超导体中的向列自旋关联与轨道选择性自旋激发
+  authors: Ting Guo; Xingye Lu
+  citation: Acta Physica Sinica 75, 160701 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.7498/aps.75.20251128
+  url: https://doi.org/10.7498/aps.75.20251128
+- id: scholar-LPtt_HFRSbwC
+  year: 2026
+  title: d-spacing distributions as a probe of nematoelastic response in iron-based superconductors
+  title_zh: 以晶面间距分布探测铁基超导体中的向列弹性响应
+  authors: Wenting Zhang; Ruixian Liu; Tingjun Zhang; Weiliang Yao; Xüe Fu; Hanqing Xie; Ziye Mo; Ting Guo; Kuo-Feng
+    Tseng; Thomas Keller; Jitae T. Park; Fankang Li; Masaaki Matsuda; Avishek Maity; Long Tian; Pengcheng Dai; Xingye
+    Lu
+  citation: arXiv:2608.01264 (2026).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2608.01264
+  arxiv_id: '2608.01264'
+  arxiv_url: https://arxiv.org/abs/2608.01264
+- id: scholar-1yWc8FF-_SYC
+  year: 2026
+  title: c-axis strain tuning of superconductivity and symmetric elastoresistivity in CsV3Sb5
+  title_zh: CsV3Sb5 中超导性与对称弹性电阻率的 c 轴应变调控
+  authors: Xiaoran Yang; Yutong Li; Chunyi Li; Qi Tang; Jiawen Zhang; Yu Song; Huiqiu Yuan; Xingye Lu
+  citation: arXiv:2607.14803 (2026).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2607.14803
+  arxiv_id: '2607.14803'
+  arxiv_url: https://arxiv.org/abs/2607.14803
+- id: scholar-hsZV8lGYWTMC
+  year: 2026
+  title: 'Iron-Based Superconductors: A Decade of Materials, Magnetism, and Mechanisms'
+  title_zh: 铁基超导体：材料、磁性与机制的十年进展
+  authors: Xingye Lu; Hechang Lei; Jun Zhao; Hideo Hosono; Pengcheng Dai
+  citation: arXiv:2607.11355 (2026).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2607.11355
+  arxiv_id: '2607.11355'
+  arxiv_url: https://arxiv.org/abs/2607.11355
+- id: scholar-yxmsSjX2EkcC
+  year: 2026
+  title: Observation of quantum vortex core fractionalization and skyrmion formation in a superconductor
+  title_zh: 超导体中量子涡旋芯分数化与斯格明子形成的观测
+  authors: Yu Zheng; Quanxin Hu; Xin Yu; Haijiao Ji; Igor Timoshuk; Julien Garaud; Hanxiang Xu; Yongwei Li; Ye Gao;
+    Xingye Lu; Vadim Grinenko; Egor Babaev; Noah F. Q. Yuan; Rui Wu; Baiqing Lv; Chi-Ming Yim; Hong Ding
+  citation: Science 393, 80–84 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1126/science.ads0189
+  url: https://doi.org/10.1126/science.ads0189
+  title_aliases:
+  - Direct observation of quantum vortex fractionalization in multiband superconductors
+  title_aliases_zh:
+  - 多带超导体中量子涡旋分数化的直接观测
+- id: scholar-Br1UauaknNIC
+  year: 2026
+  title: Spin-Excitation Response to Oxygen Deficiency in La3Ni2O7−δ Thin Films
+  title_zh: La3Ni2O7−δ 薄膜中自旋激发对缺氧的响应
+  authors: Hengyang Zhong; Bo Hao; Anni Chen; Xinru Huang; Chunyi Li; Wenting Zhang; Chang Liu; Kurt Kummer; Nicholas
+    Brookes; Yuefeng Nie; Thorsten Schmitt; Xingye Lu
+  citation: Chinese Physics Letters 43, 060717 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0256-307X/43/6/060717
+  url: https://doi.org/10.1088/0256-307X/43/6/060717
+- id: scholar-MhiOAD_qIWkC
+  year: 2026
+  title: Signatures of Three-State Potts Nematicity in Spin Excitations of the van der Waals Antiferromagnet FePSe3
+  title_zh: 范德华反铁磁体 FePSe3 自旋激发中的三态 Potts 向列性特征
+  authors: Weiliang Yao; Viviane Peçanha-Antonio; Devashibhai T. Adroja; Steven J. Gomez Alvarado; Bin Gao; Sijie
+    Xu; Ruixian Liu; Xingye Lu; Pengcheng Dai
+  citation: Nano Letters 26, 3149–3155 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/acs.nanolett.5c06293
+  url: https://doi.org/10.1021/acs.nanolett.5c06293
+- id: scholar-jU7OWUQzBzMC
+  year: 2026
+  title: Doping evolution of spin excitations in La3-xSrxNi2O7/SrLaAlO4 superconducting thin films
+  title_zh: La3-xSrxNi2O7/SrLaAlO4 超导薄膜中自旋激发的掺杂演化
+  authors: Hengyang Zhong; Bo Hao; Anni Chen; Xinru Huang; Chunyi Li; Wenting Zhang; Chang Liu; Yuxun Zhu; Dao-Xin
+    Yao; Kurt Kummer; Nicholas Brookes; Yuefeng Nie; Thorsten Schmitt; Xingye Lu
+  citation: arXiv:2603.01120 (2026).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2603.01120
+  arxiv_id: '2603.01120'
+  arxiv_url: https://arxiv.org/abs/2603.01120
+- id: scholar-CdxZDUztZiMC
+  year: 2026
+  title: Decoupling Structural and Electronic Drivers of Superconductivity in Tetragonal La3Ni2O7+δ
+  title_zh: 四方相 La3Ni2O7+δ 中超导性的结构与电子驱动因素解耦
+  authors: Yangfan Gao; Wenxuan Chen; Qingsong Liu; Guiyan Dong; Yazhou Zhou; Xintian Chen; Jialiang Cai; Jia Yu;
+    Yadong Gu; Fei Zhang; Yanchun Li; Xiaodong Li; Ke Yang; Aiguo Li; Sheng Jiang; Yuzhu Wang; Xingya Wang; Xingye
+    Lu; Defang Duan; Zhi-An Ren; Jing Guo
+  citation: Journal of the American Chemical Society (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/jacs.6c10135
+  url: https://doi.org/10.1021/jacs.6c10135
+- id: scholar-WHdLCjDvYFkC
+  year: 2025
+  title: Magnetic excitations in biaxial-strain detwinned α-RuCl3
+  title_zh: 双轴应变退孪晶 α-RuCl3 中的磁激发
+  authors: Yi Li; Yanyan Shangguan; Xinzhe Wang; Ruixian Liu; Chang Liu; Yongqi Han; Zhaosheng Wang; Christian Balz;
+    Ross Stewart; Shun-Li Yu; Jinsheng Wen; Jian-Xin Li; Xingye Lu
+  citation: arXiv:2509.06753 (2025).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2509.06753
+  arxiv_id: '2509.06753'
+  arxiv_url: https://arxiv.org/abs/2509.06753
+- id: scholar-DBa1UEJaJKAC
+  year: 2025
+  title: Antiferromagnetic ordering and critical behavior induced giant magnetocaloric effect in distorted kagome
+    lattice Gd3BWO9
+  title_zh: 畸变笼目晶格 Gd3BWO9 中反铁磁有序与临界行为诱导的巨磁热效应
+  authors: Zhuoqun Wang; Xueling Cui; Tim Treu; Jiesen Guo; Xinyang Liu; Marvin Klinger; Christian Heil; Nvsen Ma;
+    Xianlei Sheng; Zheng Deng; Xingye Lu; Xiancheng Wang; Wei Li; Philipp Gegenwart; Changqing Jin; Kan Zhao
+  citation: Physical Review Materials 9, 094407 (2025).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/7l6y-hdw5
+  url: https://doi.org/10.1103/7l6y-hdw5
+- id: scholar-7wO8s98CvbsC
+  year: 2025
+  title: Evolution of pairing symmetry in FeSe1−xSx as probed by in-plane strain tuning of Tc
+  title_zh: 通过面内应变调控 Tc 探测 FeSe1−xSx 中配对对称性的演化
+  authors: Ruixian Liu; Qi Tang; Chang Liu; Wenting Zhang; Chunyi Li; Kaijuan Zhou; Qiaoyu Wang; Xingye Lu
+  citation: Physical Review B 112, 094514 (2025).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/f6jb-yvyj
+  url: https://doi.org/10.1103/f6jb-yvyj
+  arxiv_id: '2410.13319'
+  arxiv_url: https://arxiv.org/abs/2410.13319
+  title_aliases:
+  - Evolution of pairing symmetry in FeSe1-xSx as probed by uniaxial-strain tuning of Tc
+  title_aliases_zh:
+  - 通过单轴应变调控 Tc 探测 FeSe1-xSx 中配对对称性的演化
+- id: scholar-kw52XkFRtyQC
+  year: 2025
+  title: Spin excitations and flat electronic bands in a Cr-based kagome superconductor
+  title_zh: 铬基笼目超导体中的自旋激发与平坦电子能带
+  authors: Zehao Wang; Yucheng Guo; Hsiao-Yu Huang; Fang Xie; Yuefei Huang; Bin Gao; Ji Seop Oh; Han Wu; Jun Okamoto;
+    Ganesha Channagowdra; Chien-Te Chen; Feng Ye; Xingye Lu; Zhaoyu Liu; Zheng Ren; Yuan Fang; Yiming Wang; Ananya
+    Biswas; Yichen Zhang; Ziqin Yue; Cheng Hu; Chris Jozwiak; Aaron Bostwick; Eli Rotenberg; Makoto Hashimoto; Donghui
+    Lu; Junichiro Kono; Jiun-Haw Chu; Boris I. Yakobson; Robert J. Birgeneau; Guang-Han Cao; Atsushi Fujimori; Di-Jing
+    Huang; Qimiao Si; Ming Yi; Pengcheng Dai
+  citation: Nature Communications 16, 7573 (2025).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41467-025-62298-5
+  url: https://doi.org/10.1038/s41467-025-62298-5
+- id: bnu-94
+  year: 2025
+  title: Spin correlations in the nematic quantum disordered state of FeSe
+  title_zh: FeSe 向列量子无序态中的自旋关联
+  authors: Ruixian Liu; Matthew B. Stone; Shang Gao; Mitsutaka Nakamura; Kazuya Kamazawa; Aleksandra Krajewska;
+    Helen C. Walker; Peng Cheng; Rong Yu; Qimiao Si; Pengcheng Dai*; Xingye Lu*
+  citation: Nature Communications 16, 5212 (2025).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1038/s41467-025-60071-2
+  url: https://doi.org/10.1038/s41467-025-60071-2
+  arxiv_id: '2401.05092'
+  arxiv_url: https://arxiv.org/abs/2401.05092
+  title_aliases:
+  - Nematic quantum disordered state in FeSe
+  title_aliases_zh:
+  - FeSe 中的向列量子无序态
+- id: scholar-cK4Rrx0J3m0C
+  year: 2025
+  title: First-order preemptive Ising-nematic transition in K5Fe4Ag6Te10
+  title_zh: K5Fe4Ag6Te10 中的先发一阶伊辛向列相变
+  authors: Nathan Giles-Donovan; Youzhe Chen; Hiroshi Fukui; Taishun Manjo; Daisuke Ishikawa; Alfred Q. R. Baron;
+    Songxue Chi; Hengyang Zhong; Saizheng Cao; Yu Tang; Yifan Wang; Xingye Lu; Yu Song; Robert J. Birgeneau
+  citation: Physical Review B 111, 224103 (2025).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.111.224103
+  url: https://doi.org/10.1103/PhysRevB.111.224103
+- id: scholar-j7_hQOaDUrUC
+  year: 2025
+  title: Room Temperature Dehydrogenation of Gaseous Methanol over Polycrystalline Gold Triggered and Traced by
+    Oxygen K‐edge X‐rays
+  title_zh: 氧 K 边 X 射线触发并追踪的多晶金表面气态甲醇室温脱氢反应
+  authors: Annette Pietzsch; Johannes Niskanen; Vinicius Vaz da Cruz; Sebastian Eckert; Mattis Fondell; Raphael
+    M. Jay; Xingye Lu; Daniel McNally; Thorsten Schmitt; Alexander Föhlisch
+  citation: The Journal of Physical Chemistry C 129, 2453–2459 (2025).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/acs.jpcc.4c06870
+  url: https://doi.org/10.1021/acs.jpcc.4c06870
+- id: scholar-3NQIlFlcGxIC
+  year: 2025
+  title: Spin correlations in La3Ni2O7 thin films
+  title_zh: La3Ni2O7 薄膜中的自旋关联
+  authors: Hengyang Zhong; Bo Hao; Zhijia Zhang; Anni Chen; Yuan Wei; Ruixian Liu; Xinru Huang; Chunyi Li; Wenting
+    Zhang; Chang Liu; Xiao-Sheng Ni; Marli dos Reis Cantarino; Kurt Kummer; Nicholas Brookes; Kun Cao; Yuefeng Nie;
+    Thorsten Schmitt; Xingye Lu
+  citation: arXiv:2502.03178 (2025).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2502.03178
+  arxiv_id: '2502.03178'
+  arxiv_url: https://arxiv.org/abs/2502.03178
+  title_aliases:
+  - Spin correlations in La3Ni2O7 superconducting thin films
+  - Epitaxial strain tuning of electronic and spin excitations in La3Ni2O7 thin films
+  title_aliases_zh:
+  - La3Ni2O7 超导薄膜中的自旋关联
+  - La3Ni2O7 薄膜中电子与自旋激发的外延应变调控
+- id: scholar-FiytvqdAVhgC
+  year: 2024
+  title: Double magnon-roton excitations in the triangular-lattice spin supersolid
+  title_zh: 三角晶格自旋超固体中的双磁振子—旋子激发
+  authors: Yuan Gao; Chuandi Zhang; Junsen Xiang; Dehong Yu; Xingye Lu; Peijie Sun; Wentao Jin; Gang Su; Wei
+    Li
+  citation: Physical Review B 110, 214408 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.110.214408
+  url: https://doi.org/10.1103/PhysRevB.110.214408
+  arxiv_id: '2404.15997'
+  arxiv_url: https://arxiv.org/abs/2404.15997
+  title_aliases:
+  - Spin supersolid phase and double magnon-roton excitations in a cobalt-based triangular lattice
+  title_aliases_zh:
+  - 钴基三角晶格中的自旋超固体相与双磁振子—旋子激发
+- id: scholar-7Hz3ACDFbsoC
+  year: 2024
+  title: Crystal growth and characterization of Fe1+δSe1-xTex (0.5≤x≤1) from LiCl/KCl flux
+  title_zh: LiCl/KCl 助熔剂法生长 Fe1+δSe1-xTex（0.5≤x≤1）晶体及其表征
+  authors: Qiaoyu Wang; Kexin Bi; Lewei Chen; Yunqing Shi; Junkun Yi; Yadong Gu; Menghu Zhou; Binbin Ruan; Xingye
+    Lu; Mingwei Ma; Genfu Chen; Zhian Ren
+  citation: Journal of Crystal Growth 646, 127863 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1016/j.jcrysgro.2024.127863
+  url: https://doi.org/10.1016/j.jcrysgro.2024.127863
+  arxiv_id: '2408.09388'
+  arxiv_url: https://arxiv.org/abs/2408.09388
+  title_aliases:
+  - Crystal growth and characterization of Fe1+δSe1-xTex (0.5 ≤ x ≤ 1) from LiCl/KCl flux
+  title_aliases_zh:
+  - LiCl/KCl 助熔剂法生长 Fe1+δSe1-xTex（0.5≤x≤1）晶体及其表征
+- id: scholar-7H_MAutzIkAC
+  year: 2024
+  title: Uniaxial-strain tuning method in study of iron-based superconductors
+  title_zh: 铁基超导体研究中的单轴应变调控方法
+  authors: Chun-Yi Li; Zi-Ye Mo; Xing-Ye Lu
+  citation: Acta Physica Sinica 73, 197103 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.7498/aps.73.20241080
+  url: https://doi.org/10.7498/aps.73.20241080
+- id: scholar-LdasjJ6CEcoC
+  year: 2024
+  title: Cryogenic digital image correlation as a probe of strain in iron-based superconductors
+  title_zh: 利用低温数字图像相关法探测铁基超导体中的应变
+  authors: Ziye Mo; Chunyi Li; Wenting Zhang; Chang Liu; Yongxin Sun; Ruixian Liu; Xingye Lu
+  citation: Chinese Physics Letters 41, 107102 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0256-307X/41/10/107102
+  url: https://doi.org/10.1088/0256-307X/41/10/107102
+- id: scholar-jgBuDB5drN8C
+  year: 2024
+  title: Noncentrosymmetric Nowotny Chimney Ladder Ferromagnet Cr4Ge7 with a High Curie Temperature of ∼207 K
+  title_zh: 具有约 207 K 高居里温度的非中心对称 Nowotny 烟囱梯型铁磁体 Cr4Ge7
+  authors: Zhenhai Yu; Kaijuan Zhou; Xiaofei Hou; Xuejiao Chen; Zhen Tao; Yunguan Ye; Wei Xia; Zhongyang Li; Jinggeng
+    Zhao; Wei Wu; Ziyi Liu; Xia Wang; Na Yu; Jinguang Cheng; Jian-Lin Luo; Qiang Zhang; Vladimir Y. Pomjakushin;
+    Zhicheng Zhong; Shihao Zhang; Jian-Rui Soh; Xingye Lu; Yanfeng Guo
+  citation: Chemistry of Materials 36, 7656–7664 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/acs.chemmater.4c00669
+  url: https://doi.org/10.1021/acs.chemmater.4c00669
+- id: scholar-U4n9YNQMCAIC
+  year: 2024
+  title: Low-energy spin excitations in detwinned FeSe
+  title_zh: 退孪晶 FeSe 中的低能自旋激发
+  authors: Ruixian Liu; Mitsutaka Nakamura; Kazuya Kamazawa; Xingye Lu
+  citation: Chinese Physics Letters 41, 067401 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0256-307X/41/6/067401
+  url: https://doi.org/10.1088/0256-307X/41/6/067401
+- id: scholar-wKETBy42zhYC
+  year: 2024
+  title: C-Type Antiferromagnetic Structure of Topological Semimetal CaMnSb2
+  title_zh: 拓扑半金属 CaMnSb2 的 C 型反铁磁结构
+  authors: Bo Li; Xu-Tao Zeng; Qianhui Xu; Fan Yang; Junsen Xiang; Hengyang Zhong; Sihao Deng; Lunhua He; Juping
+    Xu; Wen Yin; Xingye Lu; Huiying Liu; Xian-Lei Sheng; Wentao Jin
+  citation: Chinese Physics Letters 41, 037104 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0256-307X/41/3/037104
+  url: https://doi.org/10.1088/0256-307X/41/3/037104
+- id: bnu-95
+  year: 2024
+  title: Superstructures and magnetic order in heavily Cu-substituted (Fe1−xCux)1+yTe
+  title_zh: 重度铜替代的 (Fe1−xCux)1+yTe 中的超结构与磁有序
+  authors: Saizheng Cao; Xin Ma; Dongsheng Yuan; Zhen Tao; Xiang Chen; Yu He; Patrick N. Valdivia; Shan Wu;
+    Hang Su; Wei Tian; Adam A. Aczel; Yaohua Liu; Xiaoping Wang; Zhijun Xu; Huiqiu Yuan; Edith Bourret-Courchesne;
+    Chao Cao; Xingye Lu; Robert Birgeneau; Yu Song*
+  citation: Physical Review B 109, 045142 (2024).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.109.045142
+  url: https://doi.org/10.1103/PhysRevB.109.045142
+- id: bnu-93
+  year: 2024
+  title: Nematic Spin Correlations Pervading the Phase Diagram of FeSe1−xSx
+  title_zh: 贯穿 FeSe1−xSx 相图的向列自旋关联
+  authors: Ruixian Liu#; Wenliang Zhang#; Yuan Wei; Zhen Tao; Teguh C. Asmara; Yi Li; Vladimir N. Strocov; Rong
+    Yu; Qimiao Si; Thorsten Schmitt*; Xingye Lu*
+  citation: Physical Review Letters 132, 016501 (2024).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevLett.132.016501
+  url: https://doi.org/10.1103/PhysRevLett.132.016501
+- id: bnu-92
+  year: 2023
+  title: Nematic charge-density-wave correlations in FeSe1-xSx
+  title_zh: FeSe1-xSx 中的向列电荷密度波关联
+  authors: Ruixian Liu#; Wenliang Zhang#; Yuan Wei; Zhen Tao; Teguh C. Asmara; Vladimir N. Strocov; Thorsten
+    Schmitt*; Xingye Lu*
+  citation: arXiv:2312.12749 (2023).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2312.12749
+  arxiv_id: '2312.12749'
+  arxiv_url: https://arxiv.org/abs/2312.12749
+- id: bnu-91
+  year: 2023
+  title: In-plane uniaxial-strain tuning of superconductivity and charge-density wave in CsV3Sb5
+  title_zh: CsV3Sb5 中超导与电荷密度波的面内单轴应变调控
+  authors: Xiaoran Yang; Qi Tang; Qiuyun Zhou; Huaiping Wang; Yi Li; Xue Fu; Jiawen Zhang; Yu Song; Huiqiu Yuan;
+    Pengcheng Dai; Xingye Lu*
+  citation: Chinese Physics B 32, 127101 (2023).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/1674-1056/acf707
+  url: https://doi.org/10.1088/1674-1056/acf707
+- id: bnu-90
+  year: 2023
+  title: Interlayer coupling in the superconducting state of iron-based superconductors
+  title_zh: 铁基超导体超导态中的层间耦合
+  authors: Wenshan Hong#; Honglin Zhou#; Zezhong Li; Yang Li; Uwe Stuhr; Amit Pokhriyal; Haranath Ghosh*; Zhen
+    Tao; Xingye Lu; Jiangping Hu; Shiliang Li*; Huiqian Luo*
+  citation: Physical Review B 107, 224514 (2023).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.107.224514
+  url: https://doi.org/10.1103/PhysRevB.107.224514
+- id: bnu-89
+  year: 2023
+  title: Uniaxial-Strain Tuning of the Intertwined Orders in BaFe2(As1−xPx)2
+  title_zh: BaFe2(As1−xPx)2 中交织有序态的单轴应变调控
+  authors: Zinan Zhao#; Ding Hu#*; Xue Fu; Kaijuan Zhou; Yanhong Gu; Guotai Tan; Xingye Lu; Pengcheng Dai*
+  citation: arXiv:2305.04424 (2023).
+  kind: paper
+  status: preprint
+  highlight: false
+  url: https://arxiv.org/abs/2305.04424
+  arxiv_id: '2305.04424'
+  arxiv_url: https://arxiv.org/abs/2305.04424
+- id: bnu-88
+  year: 2023
+  title: Magnetic excitations in iron-based superconductors as revealed by resonant inelastic X-ray scattering (in
+    Chinese)
+  title_zh: 共振非弹性 X 射线散射揭示的铁基超导体磁激发（中文综述）
+  authors: Ruixian Liu; Wenting Zhang; Xingye Lu*
+  citation: Scientia Sinica Physica, Mechanica & Astronomica 53, 127409 (2023).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1360/SSPMA-2023-0264
+  url: https://doi.org/10.1360/SSPMA-2023-0264
+- id: bnu-87
+  year: 2022
+  title: Spin-excitation anisotropy in the nematic state of detwinned FeSe.
+  title_zh: 退孪晶 FeSe 向列态中的自旋激发各向异性
+  authors: Xingye Lu*; Wenliang Zhang; Yi Tseng; Ruixian Liu; Zhen Tao; Eugenio Paris; Panpan Liu; Tong Chen;
+    Vladimir N. Strocov; Yu Song; Rong Yu; Qimiao Si; Pengcheng Dai*; Thorsten Schmitt*
+  citation: Nature Physics 18, 806–812 (2022).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1038/s41567-022-01603-1
+  url: https://doi.org/10.1038/s41567-022-01603-1
+- id: bnu-86
+  year: 2022
+  title: Possible Dirac quantum spin liquid in the kagome quantum antiferromagnet YCu3(OH)6Br2[Brx(OH)1−x]
+  title_zh: 笼目量子反铁磁体 YCu3(OH)6Br2[Brx(OH)1−x] 中可能的狄拉克量子自旋液体
+  authors: Zhenyuan Zeng; Xiaoyan Ma; Si Wu; Hai-Feng Li*; Zhen Tao; Xingye Lu; Xiao-hui Chen; Jin-Xiao Mi;
+    Shi-Jie Song; Guang-Han Cao; Guangwei Che; Kuo Li; Gang Li; Huiqian Luo; Zi Yang Meng; Shiliang Li*
+  citation: Physical Review B 105, L121109 (2022).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.105.L121109
+  url: https://doi.org/10.1103/PhysRevB.105.L121109
+- id: bnu-85
+  year: 2022
+  title: Charge ordering in Ir dimers in the ground state of Ba5AlIr2O11
+  title_zh: Ba5AlIr2O11 基态中铱二聚体的电荷有序
+  authors: Vamshi M. Katukuri*; Xingye Lu*; Daniel E. McNally; Marcus Dantz; Vladimir N. Strocov; Marco Moretti
+    Sala; Mary H. Upton; Jasminka Terzic; Gang Cao; Oleg V. Yazyev; Thorsten Schmitt*
+  citation: Physical Review B 105, 075114 (2022).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.105.075114
+  url: https://doi.org/10.1103/PhysRevB.105.075114
+- id: bnu-84
+  year: 2022
+  title: Probing magnetic excitations in correlated electron materials using inelastic neutron and X-ray scattering
+    (in Chinese).
+  title_zh: 利用非弹性中子与 X 射线散射探测关联电子材料中的磁激发（中文综述）
+  authors: Ruixian Liu; Qi Tang; Xingye Lu*
+  citation: Scientia Sinica Physica, Mechanica & Astronomica 52, 270005 (2022).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1360/SSPMA-2022-0058
+  url: https://doi.org/10.1360/SSPMA-2022-0058
+- id: bnu-83
+  year: 2021
+  title: Excess-iron driven spin glass phase in Fe1+yTe1–xSex
+  title_zh: Fe1+yTe1–xSex 中过量铁驱动的自旋玻璃相
+  authors: Long Tian; Panpan Liu; Tao Hong; Tilo Seydel; Xingye Lu*; Huiqian Luo; Shiliang Li; Pengcheng Dai*
+  citation: Chinese Physics B 30, 087402 (2021).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/1674-1056/ac0695
+  url: https://doi.org/10.1088/1674-1056/ac0695
+- id: bnu-82
+  year: 2021
+  title: Hydrogen bond effects in multimode nuclear dynamics of acetic acid observed via resonant x-ray scattering
+  title_zh: 共振 X 射线散射观测到的乙酸多模核动力学中的氢键效应
+  authors: Viktoriia Savchenko; Victor Ekholm; Iulia Emilia Brumboiu; Patrick Norman; Annette Pietzsch; Alexander
+    Föhlisch; Jan-Erik Rubensson; Johan Gråsjö; Olle Björneholm; Conny Såthe; Minjie Dong; Thorsten Schmitt;
+    Daniel McNally; Xingye Lu; Pavel Krasnov; Sergey P. Polyutov; Faris Gel’mukhanov; Michael Odelius*; Victor
+    Kimberg*
+  citation: The Journal of Chemical Physics 154, 214304 (2021).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1063/5.0049966
+  url: https://doi.org/10.1063/5.0049966
+- id: bnu-81
+  year: 2021
+  title: Spinon Fermi Surface Spin Liquid in a Triangular Lattice Antiferromagnet NaYbSe2
+  title_zh: 三角晶格反铁磁体 NaYbSe2 中具有自旋子费米面的自旋液体
+  authors: Peng-Ling Dai#; Gaoning Zhang#; Yaofeng Xie; Chunruo Duan; Yonghao Gao; Zihao Zhu; Erxi Feng; Zhen
+    Tao; Chien-Lung Huang; Huibo Cao; Andrey Podlesnyak; Garrett E. Granroth; Michelle S. Everett; Joerg C.
+    Neuefeind; David Voneshen; Shun Wang; Guotai Tan; Emilia Morosan; Xia Wang; Hai-Qing Lin; Lei Shu; Gang
+    Chen*; Yanfeng Guo*; Xingye Lu*; Pengcheng Dai*
+  citation: Physical Review X 11, 021044 (2021).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevX.11.021044
+  url: https://doi.org/10.1103/PhysRevX.11.021044
+- id: bnu-80
+  year: 2021
+  title: 'Vibrational resonant inelastic X-ray scattering in liquid acetic acid: a ruler for molecular chain lengths.'
+  title_zh: 液态乙酸中的振动共振非弹性 X 射线散射：测量分子链长度的标尺
+  authors: Viktoriia Savchenko*; Iulia Emilia Brumboiu; Victor Kimberg*; Michael Odelius*; Pavel Krasnov; Ji-Cai
+    Liu; Jan-Erik Rubensson; Olle Björneholm; Conny Såthe; Johan Gråsjö; Minjie Dong; Annette Pietzsch; Alexander
+    Föhlisch; Thorsten Schmitt; Daniel McNally; Xingye Lu; Sergey P. Polyutov; Patrick Norman; Marcella Iannuzzi;
+    Faris Gel’mukhanov; Victor Ekholm
+  citation: Scientific Reports 11, 4098 (2021).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41598-021-83248-3
+  url: https://doi.org/10.1038/s41598-021-83248-3
+- id: bnu-79
+  year: 2021
+  title: Spin dynamics in NaFeAs and NaFe0.53Cu0.47As probed by resonant inelastic x-ray scattering
+  title_zh: 共振非弹性 X 射线散射探测 NaFeAs 和 NaFe0.53Cu0.47As 中的自旋动力学
+  authors: Yu Song*; Weiyi Wang; Eugenio Paris; Xingye Lu; Jonathan Pelliciari*; Yi Tseng; Yaobo Huang; Daniel
+    McNally; Marcus Dantz; Chongde Cao; Rong Yu; Robert J. Birgeneau; Thorsten Schmitt; Pengcheng Dai*
+  citation: Physical Review B 103, 075112 (2021).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.103.075112
+  url: https://doi.org/10.1103/PhysRevB.103.075112
+- id: bnu-78
+  year: 2020
+  title: In-plane uniaxial pressure-induced out-of-plane antiferromagnetic moment and critical fluctuations in BaFe2As2.
+  title_zh: 面内单轴压力在 BaFe2As2 中诱导的面外反铁磁矩与临界涨落
+  authors: Panpan Liu#; Mason L. Klemm#; Long Tian; Xingye Lu*; Yu Song; David W. Tam; Karin Schmalzl; Jitae
+    Park; Yu Li; Guotai Tan; Yixi Su; Frédéric Bourdarot; Yang Zhao; Jeffrey W. Lynn; Robert J. Birgeneau; Pengcheng
+    Dai*
+  citation: Nature Communications 11, 5728 (2020).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1038/s41467-020-19421-5
+  url: https://doi.org/10.1038/s41467-020-19421-5
+- id: bnu-77
+  year: 2020
+  title: Strong local moment antiferromagnetic spin fluctuations in V-doped LiFeAs.
+  title_zh: 钒掺杂 LiFeAs 中的强局域磁矩反铁磁自旋涨落
+  authors: Zhuang Xu#; Guangyang Dai#; Yu Li; Zhiping Yin*; Yan Rong; Long Tian; Panpan Liu; Hui Wang; Lingyi
+    Xing; Yuan Wei; Ryoichi Kajimoto; Kazuhiko Ikeuchi; Douglas L. Abernathy; Xiancheng Wang; Changqing Jin;
+    Xingye Lu; Guotai Tan*; Pengcheng Dai*
+  citation: npj Quantum Materials 5, 11 (2020).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41535-020-0212-x
+  url: https://doi.org/10.1038/s41535-020-0212-x
+- id: bnu-76
+  year: 2020
+  title: 'Anisotropic magnetic excitations of a frustrated bilinear-biquadratic spin model: Implications for spin
+    waves of detwinned iron pnictides'
+  title_zh: 受挫双线性—双二次自旋模型的各向异性磁激发：对退孪晶铁砷化物自旋波的启示
+  authors: Changle Liu; Xingye Lu; Pengcheng Dai; Rong Yu*; Qimiao Si*
+  citation: Physical Review B 101, 024510 (2020).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.101.024510
+  url: https://doi.org/10.1103/PhysRevB.101.024510
+- id: bnu-75
+  year: 2020
+  title: Doping evolution of the charge excitations and electron correlations in electron-doped superconducting
+    La2−xCexCuO4
+  title_zh: 电子掺杂超导体 La2−xCexCuO4 中电荷激发与电子关联的掺杂演化
+  authors: Jiaqi Lin; Jie Yuan; Kui Jin; Zhiping Yin*; Gang Li; Ke-Jin Zhou; Xingye Lu; Marcus Dantz; Thorsten
+    Schmitt; Hong Ding; Haizhong Guo; Mark P. M. Dean*; Xuerong Liu*
+  citation: npj Quantum Materials 5, 4 (2020).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41535-019-0205-9
+  url: https://doi.org/10.1038/s41535-019-0205-9
+- id: bnu-74
+  year: 2019
+  title: Strain-Induced Spin-Nematic State and Nematic Susceptibility Arising from 2×2 Fe Clusters in KFe0.8Ag1.2Te2
+  title_zh: KFe0.8Ag1.2Te2 中 2×2 铁团簇产生的应变诱导自旋向列态与向列易感性
+  authors: Yu Song*; Dongsheng Yuan; Xingye Lu; Zhijun Xu; Edith Bourret-Courchesne; Robert J. Birgeneau
+  citation: Physical Review Letters 123, 247205 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.123.247205
+  url: https://doi.org/10.1103/PhysRevLett.123.247205
+- id: bnu-73
+  year: 2019
+  title: Reciprocity between local moments and collective magnetic excitations in the phase diagram of BaFe2(As1−xPx)2.
+  title_zh: BaFe2(As1−xPx)2 相图中局域磁矩与集体磁激发之间的相互关联
+  authors: Jonathan Pelliciari*; Kenji Ishii; Yaobo Huang; Marcus Dantz; Xingye Lu; Paul Olalde-Velasco; Vladimir
+    N. Strocov; Shigeru Kasahara; Lingyi Xing; Xiancheng Wang; Changqing Jin; Yuji Matsuda; Takasada Shibauchi;
+    Tanmoy Das; Thorsten Schmitt*
+  citation: Communications Physics 2, 139 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s42005-019-0236-3
+  url: https://doi.org/10.1038/s42005-019-0236-3
+- id: bnu-72
+  year: 2019
+  title: Spin fluctuation anisotropy as a probe of orbital-selective hole-electron quasiparticle excitations in
+    detwinned Ba(Fe1−xCox)2As2
+  title_zh: 以自旋涨落各向异性探测退孪晶 Ba(Fe1−xCox)2As2 中轨道选择性的空穴—电子准粒子激发
+  authors: Long Tian; Panpan Liu; Zhuang Xu; Yu Li; Zhilun Lu; Helen C. Walker; Uwe Stuhr; Guotai Tan; Xingye
+    Lu; Pengcheng Dai*
+  citation: Physical Review B 100, 134509 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.100.134509
+  url: https://doi.org/10.1103/PhysRevB.100.134509
+- id: bnu-71
+  year: 2019
+  title: Why X-ray spectral features are compatible to continuous distribution models in ambient water
+  title_zh: 为何 X 射线谱特征与常温水的连续分布模型相容
+  authors: Johannes Niskanen; Mattis Fondell; Christoph J. Sahle; Sebastian Eckert; Raphael M. Jay; Keith Gilmore;
+    Annette Pietzsch; Marcus Dantz; Xingye Lu; Daniel E. McNally; Thorsten Schmitt; Vinicius Vaz da Cruz; Victor
+    Kimberg; Faris Gel’mukhanov; Alexander Föhlisch*
+  citation: Proceedings of the National Academy of Sciences 116, 17158–17159 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1073/pnas.1909551116
+  url: https://doi.org/10.1073/pnas.1909551116
+- id: bnu-70
+  year: 2019
+  title: Plaquette instability competing with bicollinear ground state in detwinned FeTe
+  title_zh: 与退孪晶 FeTe 双共线基态竞争的方块不稳定性
+  authors: David W. Tam; Hsin-Hua Lai; Jin Hu; Xingye Lu; Helen C. Walker; Douglas L. Abernathy; Jennifer L.
+    Niedziela; Tobias Weber; Mechthild Enderle; Yixi Su; Zhiqiang Mao; Qimiao Si; Pengcheng Dai*
+  citation: Physical Review B 100, 054405 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.100.054405
+  url: https://doi.org/10.1103/PhysRevB.100.054405
+- id: bnu-69
+  year: 2019
+  title: Anisotropic spin fluctuations in detwinned FeSe.
+  title_zh: 退孪晶 FeSe 中的各向异性自旋涨落
+  authors: Tong Chen; Youzhe Chen; Andreas Kreisel; Xingye Lu*; Astrid Schneidewind; Yiming Qiu; Jitae Park;
+    Toby G. Perring; John Ross Stewart; Huibo Cao; Rui Zhang; Yu Li; Yan Rong; Yuan Wei; Brian M. Andersen;
+    Peter J. Hirschfeld; Collin Broholm; Pengcheng Dai*
+  citation: Nature Materials 18, 709–716 (2019).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1038/s41563-019-0369-5
+  url: https://doi.org/10.1038/s41563-019-0369-5
+- id: bnu-68
+  year: 2019
+  title: What Triggers Oxygen Loss in Oxygen Redox Cathode Materials?
+  title_zh: 什么触发了氧氧化还原正极材料中的氧损失？
+  authors: Robert A. House; Urmimala Maitra; Liyu Jin; Juan G. Lozano; James W. Somerville; Nicholas H. Rees;
+    Andrew J. Naylor; Laurent C. Duda; Felix Massel; Alan V. Chadwick; Silvia Ramos; David M. Pickup; Daniel
+    E. McNally; Xingye Lu; Thorsten Schmitt; Matthew R. Roberts; Peter G. Bruce*
+  citation: Chemistry of Materials 31, 3293–3300 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/acs.chemmater.9b00227
+  url: https://doi.org/10.1021/acs.chemmater.9b00227
+- id: bnu-67
+  year: 2019
+  title: Compatibility of quantitative X-ray spectroscopy with continuous distribution models of water at ambient
+    conditions
+  title_zh: 定量 X 射线谱学与常温条件下水的连续分布模型的相容性
+  authors: Johannes Niskanen; Mattis Fondell; Christoph J. Sahle; Sebastian Eckert; Raphael M. Jay; Keith Gilmore;
+    Annette Pietzsch; Marcus Dantz; Xingye Lu; Daniel E. McNally; Thorsten Schmitt; Vinicius Vaz da Cruz; Victor
+    Kimberg; Faris Gel’mukhanov; Alexander Föhlisch*
+  citation: Proceedings of the National Academy of Sciences 116, 4058–4063 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1073/pnas.1815701116
+  url: https://doi.org/10.1073/pnas.1815701116
+- id: bnu-66
+  year: 2019
+  title: Probing hydrogen bond strength in liquid water by resonant inelastic X-ray scattering.
+  title_zh: 利用共振非弹性 X 射线散射探测液态水中的氢键强度
+  authors: Vinícius Vaz da Cruz*; Faris Gel’mukhanov; Sebastian Eckert; Marcella Iannuzzi; Emelie Ertan; Annette
+    Pietzsch; Rafael C. Couto; Johannes Niskanen; Mattis Fondell; Marcus Dantz; Thorsten Schmitt; Xingye Lu;
+    Daniel McNally; Raphael M. Jay; Victor Kimberg; Alexander Föhlisch; Michael Odelius*
+  citation: Nature Communications 10, 1013 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41467-019-08979-4
+  url: https://doi.org/10.1038/s41467-019-08979-4
+- id: bnu-65
+  year: 2019
+  title: Electronic localization in CaVO3 films via bandwidth control.
+  title_zh: 通过带宽调控实现 CaVO3 薄膜中的电子局域化
+  authors: Daniel E. McNally; Xingye Lu; Jonathan Pelliciari; Sophie Beck; Marcus Dantz; Muntaser Naamneh; Tian
+    Shang; Marisa Medarde; Christof W. Schneider; Vladimir N. Strocov; Ekaterina V. Pomjakushina; Claude Ederer;
+    Milan Radovic*; Thorsten Schmitt*
+  citation: npj Quantum Materials 4, 6 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41535-019-0146-3
+  url: https://doi.org/10.1038/s41535-019-0146-3
+- id: bnu-64
+  year: 2019
+  title: Doping Dependence of the Second Magnetization Peak, Critical Current Density, and Pinning Mechanism in
+    BaFe2–xNixAs2 Pnictide Superconductors
+  title_zh: BaFe2–xNixAs2 铁基超导体中第二磁化峰、临界电流密度与钉扎机制的掺杂依赖性
+  authors: Shyam Sundar*; Said Salem-Sugui Jr.; Edmund Lovell; Alexander Vanstone; Lesley F. Cohen; Dongliang
+    Gong; Rui Zhang; Xingye Lu; Huiqian Luo; Luis Ghivelder
+  citation: ACS Applied Electronic Materials 1, 179–188 (2019).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1021/acsaelm.8b00014
+  url: https://doi.org/10.1021/acsaelm.8b00014
+- id: bnu-63
+  year: 2018
+  title: Spin Waves in Detwinned BaFe2As2
+  title_zh: 退孪晶 BaFe2As2 中的自旋波
+  authors: Xingye Lu*; Daniel D. Scherer; David W. Tam; Wenliang Zhang; Rui Zhang; Huiqian Luo; Leland W. Harriger;
+    Helen C. Walker; Devashibhai T. Adroja; Brian M. Andersen*; Pengcheng Dai*
+  citation: Physical Review Letters 121, 067002 (2018).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevLett.121.067002
+  url: https://doi.org/10.1103/PhysRevLett.121.067002
+- id: bnu-62
+  year: 2018
+  title: Superconducting gap symmetry in the superconductor BaFe1.9Ni0.1As2
+  title_zh: 超导体 BaFe1.9Ni0.1As2 的超导能隙对称性
+  authors: Tatiana E. Kuzmicheva; Svetoslav A. Kuzmichev; Andrey V. Sadakov; Sergey Yu. Gavrilkin; Aleksei Yu.
+    Tsvetkov; Xingye Lu; Huiqian Luo; Alexander N. Vasiliev; Vladimir M. Pudalov; Xiao-Jia Chen; Mahmoud Abdel-Hafiez*
+  citation: Physical Review B 97, 235106 (2018).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.97.235106
+  url: https://doi.org/10.1103/PhysRevB.97.235106
+- id: bnu-61
+  year: 2018
+  title: Resonant inelastic x-ray scattering studies of magnons and bimagnons in the lightly doped cuprate La2−xSrxCuO4
+  title_zh: 轻掺杂铜氧化物 La2−xSrxCuO4 中磁振子与双磁振子的共振非弹性 X 射线散射研究
+  authors: Laura Chaix*; Edwin W. Huang; Simon Gerber; Xingye Lu; Chunjing Jia; Yaobo Huang; Daniel E. McNally;
+    Yao Wang; François H. Vernay; Amit Keren; Ming Shi; Brian Moritz; Zhi-Xun Shen; Thorsten Schmitt; Thomas
+    P. Devereaux; Wei-Sheng Lee*
+  citation: Physical Review B 97, 155144 (2018).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.97.155144
+  url: https://doi.org/10.1103/PhysRevB.97.155144
+- id: bnu-60
+  year: 2018
+  title: Oxygen redox chemistry without excess alkali-metal ions in Na2/3[Mg0.28Mn0.72]O2.
+  title_zh: Na2/3[Mg0.28Mn0.72]O2 中无过量碱金属离子条件下的氧氧化还原化学
+  authors: Urmimala Maitra#; Robert A. House#; James W. Somerville; Nuria Tapia-Ruiz; Juan G. Lozano; Niccoló
+    Guerrini; Rong Hao; Kun Luo; Liyu Jin; Miguel A. Pérez-Osorio; Felix Massel; David M. Pickup; Silvia Ramos;
+    Xingye Lu; Daniel E. McNally; Alan V. Chadwick; Feliciano Giustino; Thorsten Schmitt; Laurent C. Duda; Matthew
+    R. Roberts; Peter G. Bruce*
+  citation: Nature Chemistry 10, 288–295 (2018).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/nchem.2923
+  url: https://doi.org/10.1038/nchem.2923
+- id: bnu-59
+  year: 2018
+  title: Direct observation of spin excitation anisotropy in the paramagnetic orthorhombic state of BaFe2−xNixAs2
+  title_zh: 直接观测 BaFe2−xNixAs2 顺磁正交相中的自旋激发各向异性
+  authors: Haoran Man; Rui Zhang; Jitae Park; Xingye Lu; Jiri Kulda; Alexandre Ivanov; Pengcheng Dai*
+  citation: Physical Review B 97, 060507(R) (2018).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.97.060507
+  url: https://doi.org/10.1103/PhysRevB.97.060507
+- id: bnu-58
+  year: 2018
+  title: Spin-isotropic continuum of spin excitations in antiferromagnetically ordered Fe1.07Te
+  title_zh: 反铁磁有序 Fe1.07Te 中自旋各向同性的自旋激发连续谱
+  authors: Yu Song*; Xingye Lu; Louis-Pierre Regnault; Yixi Su; Hsin-Hua Lai; Wen-Jun Hu; Qimiao Si; Pengcheng
+    Dai*
+  citation: Physical Review B 97, 024519 (2018).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.97.024519
+  url: https://doi.org/10.1103/PhysRevB.97.024519
+- id: bnu-57
+  year: 2018
+  title: Dispersive magnetic and electronic excitations in iridate perovskites probed by oxygen K-edge resonant
+    inelastic x-ray scattering
+  title_zh: 利用氧 K 边共振非弹性 X 射线散射探测铱氧化物钙钛矿中的色散磁激发与电子激发
+  authors: Xingye Lu*; Paul Olalde-Velasco; Yaobo Huang; Valentina Bisogni; Jonathan Pelliciari; Sara Fatale;
+    Marcus Dantz; James G. Vale; Emily C. Hunter; Johan Chang; Vladimir N. Strocov; Robin S. Perry; Marco Grioni;
+    Desmond F. McMorrow; Henrik M. Rønnow; Thorsten Schmitt*
+  citation: Physical Review B 97, 041102(R) (2018).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevB.97.041102
+  url: https://doi.org/10.1103/PhysRevB.97.041102
+- id: bnu-56
+  year: 2017
+  title: Temperature and polarization dependence of low-energy magnetic fluctuations in nearly optimally doped NaFe0.9785Co0.0215As
+  title_zh: 近最佳掺杂 NaFe0.9785Co0.0215As 中低能磁涨落的温度与极化依赖性
+  authors: Yu Song*; Weiyi Wang; Chenglin Zhang; Yanhong Gu; Xingye Lu; Guotai Tan; Yixi Su; Frédéric Bourdarot;
+    Andrew D. Christianson; Shiliang Li; Pengcheng Dai*
+  citation: Physical Review B 96, 184512 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.96.184512
+  url: https://doi.org/10.1103/PhysRevB.96.184512
+- id: bnu-55
+  year: 2017
+  title: Magnetic fluctuations in BaFe2−xNixAs2 superconductors
+  title_zh: BaFe2−xNixAs2 超导体中的磁涨落
+  authors: Michel Saint-Paul*; Christophe Guttin; Abdellatif Abbassi; Zhao-Sheng Wang; Huiqian Luo; Xingye Lu;
+    Cong Ren; Hai-Hu Wen; Klaus Hasselbach
+  citation: Solid State Communications 267, 48–52 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1016/j.ssc.2017.08.021
+  url: https://doi.org/10.1016/j.ssc.2017.08.021
+- id: bnu-54
+  year: 2017
+  title: Electronic and magnetic excitations in the half-stuffed Cu-O planes of Ba2Cu3O4Cl2 measured by resonant
+    inelastic x-ray scattering
+  title_zh: 利用共振非弹性 X 射线散射测量 Ba2Cu3O4Cl2 半填充铜氧平面中的电子与磁激发
+  authors: Sara Fatale; Claudia Giuseppina Fatuzzo; Peter Babkevich; Noore Elahi Shaik; Jonathan Pelliciari;
+    Xingye Lu; Daniel E. McNally; Thorsten Schmitt; Akiko Kikkawa; Yasujiro Taguchi; Yoshinori Tokura; Bruce
+    Normand; Henrik Moodysson Rønnow; Marco Grioni*
+  citation: Physical Review B 96, 115149 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.96.115149
+  url: https://doi.org/10.1103/PhysRevB.96.115149
+- id: bnu-53
+  year: 2017
+  title: Crossover from Collective to Incoherent Spin Excitations in Superconducting Cuprates Probed by Detuned
+    Resonant Inelastic X-Ray Scattering
+  title_zh: 失谐共振非弹性 X 射线散射探测超导铜氧化物中从集体到非相干自旋激发的交叉
+  authors: Matteo Minola*; Yi Lu; Yingying Peng; Greta Dellea; Hlynur Gretarsson; Maurits W. Haverkort; Ying
+    Ding; Xuan Sun; Xingjiang Zhou; Darren C. Peets; Ludivine Chauviere; Pinder Dosanjh; Douglas A. Bonn; Ruixing
+    Liang; Andrea Damascelli; Marcus Dantz; Xingye Lu; Thorsten Schmitt; Lucio Braicovich; Giacomo Ghiringhelli;
+    Bernhard Keimer; Matthieu Le Tacon
+  citation: Physical Review Letters 119, 097001 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.119.097001
+  url: https://doi.org/10.1103/PhysRevLett.119.097001
+- id: bnu-52
+  year: 2017
+  title: Two-Dimensional Massless Dirac Fermions in Antiferromagnetic AFe2As2 (A=Ba,Sr)
+  title_zh: 反铁磁 AFe2As2（A=Ba、Sr）中的二维无质量狄拉克费米子
+  authors: Zhi-Guo Chen*; Luyang Wang; Yu Song; Xingye Lu; Huiqian Luo; Chenglin Zhang; Pengcheng Dai; Zhiping
+    Yin*; Kristjan Haule; Gabriel Kotliar
+  citation: Physical Review Letters 119, 096401 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.119.096401
+  url: https://doi.org/10.1103/PhysRevLett.119.096401
+- id: bnu-51
+  year: 2017
+  title: Zone plates as imaging analyzers for resonant inelastic x-ray scattering
+  title_zh: 用于共振非弹性 X 射线散射成像分析器的波带片
+  authors: Felix Marschall; Daniel McNally; Vitaliy A. Guzenko; Benedikt Rösner; Marcus Dantz; Xingye Lu; Leonard
+    Nue; Vladimir Strocov; Thorsten Schmitt; Christian David
+  citation: Optics Express 25, 15624–15634 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1364/OE.25.015624
+  url: https://doi.org/10.1364/OE.25.015624
+- id: bnu-50
+  year: 2017
+  title: Spin excitation anisotropy in the paramagnetic tetragonal phase of BaFe2As2
+  title_zh: BaFe2As2 顺磁四方相中的自旋激发各向异性
+  authors: Yu Li; Weiyi Wang; Yu Song; Haoran Man; Xingye Lu; Frédéric Bourdarot; Pengcheng Dai*
+  citation: Physical Review B 96, 020404(R) (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.96.020404
+  url: https://doi.org/10.1103/PhysRevB.96.020404
+- id: bnu-49
+  year: 2017
+  title: Damped spin excitations in a doped cuprate superconductor with orbital hybridization
+  title_zh: 具有轨道杂化的掺杂铜氧化物超导体中的阻尼自旋激发
+  authors: Oleh Ivashko; Noore Elahi Shaik; Xingye Lu; Claudia Giuseppina Fatuzzo; Marcus Dantz; Paul Gregory
+    Freeman; Daniel E. McNally; Daniel Destraz; Niels Bech Christensen; Tohru Kurosawa; Naoki Momono; Migaku
+    Oda; Christian E. Matt; Claude Monney; Henrik Moodysson Rønnow; Thorsten Schmitt; Johan Chang*
+  citation: Physical Review B 95, 214508 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.95.214508
+  url: https://doi.org/10.1103/PhysRevB.95.214508
+- id: bnu-48
+  year: 2017
+  title: Local and collective magnetism of EuFe2As2
+  title_zh: EuFe2As2 中的局域与集体磁性
+  authors: Jonathan Pelliciari*; Kenji Ishii; Marcus Dantz; Xingye Lu; Daniel E. McNally; Vladimir N. Strocov;
+    Lingyi Xing; Xiancheng Wang; Changqing Jin; Hirale S. Jeevan; Philipp Gegenwart; Thorsten Schmitt*
+  citation: Physical Review B 95, 115152 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.95.115152
+  url: https://doi.org/10.1103/PhysRevB.95.115152
+- id: bnu-47
+  year: 2017
+  title: Uniaxial pressure effect on the magnetic ordered moment and transition temperatures in BaFe2−xTxAs2 (T=Co,Ni)
+  title_zh: 单轴压力对 BaFe2−xTxAs2（T=Co、Ni）磁有序磁矩与相变温度的影响
+  authors: David W. Tam; Yu Song; Haoran Man; Sky C. Cheung; Zhiping Yin; Xingye Lu; Weiyi Wang; Benjamin A.
+    Frandsen; Lian Liu; Zizhou Gong; Takashi U. Ito; Yipeng Cai; Murray N. Wilson; Shengli Guo; Keisuke Koshiishi;
+    Wei Tian; Bassam Hitti; Alexandre Ivanov; Yang Zhao; Jeffrey W. Lynn; Graeme M. Luke; Tom Berlijn; Thomas
+    A. Maier; Yasutomo J. Uemura; Pengcheng Dai*
+  citation: Physical Review B 95, 060505(R) (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.95.060505
+  url: https://doi.org/10.1103/PhysRevB.95.060505
+- id: bnu-46
+  year: 2017
+  title: Angular-dependent magnetic torque in iron-pnictide BaFe2−xNixAs2
+  title_zh: 铁砷化物 BaFe2−xNixAs2 中磁力矩的角度依赖性
+  authors: Wei Zhang; Huiqian Luo; Rui Zhang; Xingye Lu; Bing Xu; Kai Wang; Run Yang; Jinyun Liu; Hao Yang*;
+    Xianggang Qiu*
+  citation: International Journal of Modern Physics B 31, 1750005 (2017).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1142/S0217979217500059
+  url: https://doi.org/10.1142/S0217979217500059
+- id: bnu-45
+  year: 2017
+  title: Doping Evolution of Magnetic Order and Magnetic Excitations in (Sr1−xLax)3Ir2O7
+  title_zh: (Sr1−xLax)3Ir2O7 中磁有序与磁激发的掺杂演化
+  authors: Xingye Lu*; Daniel E. McNally; Marco Moretti Sala; Jasminka Terzic; Mary H. Upton; Diego Casa; Gerhard
+    Ingold; Gang Cao; Thorsten Schmitt*
+  citation: Physical Review Letters 118, 027202 (2017).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevLett.118.027202
+  url: https://doi.org/10.1103/PhysRevLett.118.027202
+- id: bnu-44
+  year: 2017
+  title: 'Phase diagram and magnetic excitations of BaFe2-xNixAs2: a neutron scattering study'
+  title_zh: BaFe2-xNixAs2 的相图与磁激发：中子散射研究
+  authors: Xingye Lu
+  citation: Springer Theses (2017).
+  kind: book
+  status: published
+  highlight: false
+  doi: 10.1007/978-981-10-4998-9
+  url: https://doi.org/10.1007/978-981-10-4998-9
+- id: bnu-42
+  year: 2016
+  title: Spin anisotropy due to spin-orbit coupling in optimally hole-doped Ba0.67K0.33Fe2As2
+  title_zh: 最佳空穴掺杂 Ba0.67K0.33Fe2As2 中自旋—轨道耦合引起的自旋各向异性
+  authors: Yu Song*; Haoran Man; Rui Zhang; Xingye Lu; Chenglin Zhang; Meng Wang; Guotai Tan; Louis-Pierre Regnault;
+    Yixi Su; Jian Kang; Rafael M. Fernandes; Pengcheng Dai*
+  citation: Physical Review B 94, 214516 (2016).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.94.214516
+  url: https://doi.org/10.1103/PhysRevB.94.214516
+- id: bnu-41
+  year: 2016
+  title: Effect of Nematic Order on the Low-Energy Spin Fluctuations in Detwinned BaFe1.935Ni0.065As2
+  title_zh: 向列有序对退孪晶 BaFe1.935Ni0.065As2 中低能自旋涨落的影响
+  authors: Wenliang Zhang; Jitae Park; Xingye Lu; Yuan Wei; Xiaoyan Ma; Lijie Hao; Pengcheng Dai; Zi Yang Meng;
+    Yi-feng Yang; Huiqian Luo*; Shiliang Li*
+  citation: Physical Review Letters 117, 227003 (2016).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.117.227003
+  url: https://doi.org/10.1103/PhysRevLett.117.227003
+- id: bnu-40
+  year: 2016
+  title: Nematic Quantum Critical Fluctuations in BaFe2−xNixAs2
+  title_zh: BaFe2−xNixAs2 中的向列量子临界涨落
+  authors: Zhaoyu Liu; Yanhong Gu; Wei Zhang; Dongliang Gong; Wenliang Zhang; Tao Xie; Xingye Lu; Xiaoyan Ma;
+    Xiaotian Zhang; Rui Zhang; Jun Zhu; Cong Ren; Lei Shan; Xianggang Qiu; Pengcheng Dai; Yi-feng Yang; Huiqian
+    Luo; Shiliang Li*
+  citation: Physical Review Letters 117, 157002 (2016).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.117.157002
+  url: https://doi.org/10.1103/PhysRevLett.117.157002
+- id: bnu-39
+  year: 2016
+  title: Electronic specific heat in BaFe2−xNixAs2
+  title_zh: BaFe2−xNixAs2 中的电子比热
+  authors: Dongliang Gong; Tao Xie; Xingye Lu; Cong Ren; Lei Shan; Rui Zhang; Pengcheng Dai; Yi-feng Yang; Huiqian
+    Luo*; Shiliang Li*
+  citation: Physical Review B 93, 134520 (2016).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.93.134520
+  url: https://doi.org/10.1103/PhysRevB.93.134520
+- id: bnu-38
+  year: 2016
+  title: Impact of uniaxial pressure on structural and magnetic phase transitions in electron-doped iron pnictides
+  title_zh: 单轴压力对电子掺杂铁砷化物结构与磁相变的影响
+  authors: Xingye Lu; Kuo-Feng Tseng; Thomas Keller; Wenliang Zhang; Ding Hu; Yu Song; Haoran Man; Jitae Park;
+    Huiqian Luo; Shiliang Li; Andriy H. Nevidomskyy; Pengcheng Dai*
+  citation: Physical Review B 93, 134519 (2016).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevB.93.134519
+  url: https://doi.org/10.1103/PhysRevB.93.134519
+- id: bnu-37
+  year: 2016
+  title: Magnetoresistivity and filamentary superconductivity in nickel-doped BaFe2As2
+  title_zh: 镍掺杂 BaFe2As2 中的磁电阻率与丝状超导
+  authors: Wei Zhang; Yao-Min Dai; Bing Xu; Run Yang; Jin-Yun Liu; Qiang-Tao Sui; Hui-Qian Luo; Rui Zhang; Xing-Ye
+    Lu; Hao Yang*; Xiang-Gang Qiu*
+  citation: Chinese Physics B 25, 047401 (2016).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/1674-1056/25/4/047401
+  url: https://doi.org/10.1088/1674-1056/25/4/047401
+- id: bnu-35
+  year: 2015
+  title: Electron doping dependence of the anisotropic superconductivity in BaFe2−xNixAs2
+  title_zh: BaFe2−xNixAs2 中各向异性超导的电子掺杂依赖性
+  authors: Zhaosheng Wang*; Tao Xie; Erik Kampert; Tobias Förster; Xingye Lu; Rui Zhang; Dongliang Gong; Shiliang
+    Li; Thomas Herrmannsdörfer; Jochen Wosnitza; Huiqian Luo*
+  citation: Physical Review B 92, 174509 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.92.174509
+  url: https://doi.org/10.1103/PhysRevB.92.174509
+- id: bnu-34
+  year: 2015
+  title: Energy dependence of the spin excitation anisotropy in uniaxial-strained BaFe1.9Ni0.1As2
+  title_zh: 单轴应变 BaFe1.9Ni0.1As2 中自旋激发各向异性的能量依赖性
+  authors: Yu Song; Xingye Lu; Douglas L. Abernathy; David W. Tam; Jennifer L. Niedziela; Wei Tian; Huiqian
+    Luo; Qimiao Si; Pengcheng Dai*
+  citation: Physical Review B 92, 180504(R) (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.92.180504
+  url: https://doi.org/10.1103/PhysRevB.92.180504
+- id: bnu-33
+  year: 2015
+  title: Electronic nematic correlations in the stress-free tetragonal state of BaFe2−xNixAs2
+  title_zh: 无应力 BaFe2−xNixAs2 四方相中的电子向列关联
+  authors: Haoran Man; Xingye Lu; Justin S. Chen; Rui Zhang; Wenliang Zhang; Huiqian Luo; Jiri Kulda; Alexandre
+    Ivanov; Thomas Keller; Emilia Morosan; Qimiao Si; Pengcheng Dai*
+  citation: Physical Review B 92, 134521 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.92.134521
+  url: https://doi.org/10.1103/PhysRevB.92.134521
+- id: bnu-32
+  year: 2015
+  title: 'Doping Induced Gap Anisotropy in Iron-Based Superconductors: a Point-Contact Andreev Reflection Study
+    of BaFe2−xNixAs2 Single Crystals.'
+  title_zh: 铁基超导体中掺杂诱导的能隙各向异性：BaFe2−xNixAs2 单晶的点接触安德烈夫反射研究
+  authors: Jun Zhu; Zhao-Sheng Wang; Zhen-Yu Wang; Xing-Yuan Hou; Hui-Qian Luo; Xing-Ye Lu; Chun-Hong Li; Lei
+    Shan; Hai-Hu Wen; Cong Ren*
+  citation: Chinese Physics Letters 32, 077401 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0256-307X/32/7/077401
+  url: https://doi.org/10.1088/0256-307X/32/7/077401
+- id: bnu-31
+  year: 2015
+  title: Large increase of the anisotropy factor in the overdoped region of Ba(Fe1-xNix)2As2 as probed by fluctuation
+    spectroscopy
+  title_zh: 涨落谱学探测到的过掺杂 Ba(Fe1-xNix)2As2 中各向异性因子的显著增大
+  authors: Alberto Ramos-Álvarez; Jesús Mosqueira*; Félix Vidal; Xingye Lu; Huiqian Luo
+  citation: Superconductor Science and Technology 28, 075004 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/28/7/075004
+  url: https://doi.org/10.1088/0953-2048/28/7/075004
+- id: bnu-30
+  year: 2015
+  title: Structural and Magnetic Phase Transitions near Optimal Superconductivity in BaFe2(As1−xPx)2
+  title_zh: BaFe2(As1−xPx)2 最佳超导附近的结构与磁相变
+  authors: Ding Hu; Xingye Lu; Wenliang Zhang; Huiqian Luo; Shiliang Li; Peipei Wang; Genfu Chen*; Fei Han;
+    Shree R. Banjara; Aashish Sapkota; Andreas Kreyssig; Alan I. Goldman; Zahra Yamani; Christof Niedermayer;
+    Markos Skoulatos; Robert Georgii; Thomas Keller; Pengshuai Wang; Weiqiang Yu; Pengcheng Dai*
+  citation: Physical Review Letters 114, 157002 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.114.157002
+  url: https://doi.org/10.1103/PhysRevLett.114.157002
+- id: bnu-29
+  year: 2015
+  title: Neutron spin resonance as a probe of superconducting gap anisotropy in partially detwinned electron underdoped
+    NaFe0.985Co0.015As
+  title_zh: 以中子自旋共振探测部分退孪晶的电子欠掺杂 NaFe0.985Co0.015As 中超导能隙的各向异性
+  authors: Chenglin Zhang; Jitae Park; Xingye Lu; Rong Yu; Yu Li; Wenliang Zhang; Yang Zhao; Jeffrey W. Lynn;
+    Qimiao Si; Pengcheng Dai*
+  citation: Physical Review B 91, 104520 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.91.104520
+  url: https://doi.org/10.1103/PhysRevB.91.104520
+- id: bnu-28
+  year: 2015
+  title: Doping evolution of antiferromagnetism and transport properties in nonsuperconducting BaFe2−2xNixCrxAs2
+  title_zh: 非超导 BaFe2−2xNixCrxAs2 中反铁磁性与输运性质的掺杂演化
+  authors: Rui Zhang#; Dongliang Gong#; Xingye Lu; Shiliang Li; Mark Laver; Christof Niedermayer; Sergey Danilkin;
+    Guochu Deng; Pengcheng Dai; Huiqian Luo*
+  citation: Physical Review B 91, 094506 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.91.094506
+  url: https://doi.org/10.1103/PhysRevB.91.094506
+- id: bnu-27
+  year: 2015
+  title: 'Nodeless superconductivity in the presence of spin-density wave in pnictde superconductors: The case of
+    BaFe2−xNixAs2'
+  title_zh: 铁基超导体中与自旋密度波共存的无节点超导：以 BaFe2−xNixAs2 为例
+  authors: Mahmoud Abdel-Hafiez; Yuanyuan Zhang; Zheng He; Jun Zhao; Christoph Bergmann; Cornelius Krellner;
+    Chun-Gang Duan; Xingye Lu; Huiqian Luo; Pengcheng Dai; Xiao-Jia Chen*
+  citation: Physical Review B 91, 024510 (2015).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.91.024510
+  url: https://doi.org/10.1103/PhysRevB.91.024510
+- id: bnu-26
+  year: 2014
+  title: Nematic spin correlations in the tetragonal state of uniaxial-strained BaFe2-xNixAs2
+  title_zh: 单轴应变 BaFe2-xNixAs2 四方相中的向列自旋关联
+  authors: Xingye Lu; Jitae Park; Rui Zhang; Huiqian Luo; Andriy H. Nevidomskyy; Qimiao Si; Pengcheng Dai*
+  citation: Science 345, 657–660 (2014).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1126/science.1251853
+  url: https://doi.org/10.1126/science.1251853
+- id: bnu-25
+  year: 2014
+  title: Short-range cluster spin glass near optimal superconductivity in BaFe2-xNixAs2
+  title_zh: BaFe2-xNixAs2 最佳超导附近的短程团簇自旋玻璃
+  authors: Xingye Lu; David W. Tam; Chenglin Zhang; Huiqian Luo; Meng Wang; Rui Zhang; Leland W. Harriger; Thomas
+    Keller; Bernhard Keimer; Louis-Pierre Regnault; Thomas A. Maier; Pengcheng Dai*
+  citation: Physical Review B 90, 024509 (2014).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.90.024509
+  url: https://doi.org/10.1103/PhysRevB.90.024509
+- id: bnu-24
+  year: 2014
+  title: The effect of Cr impurity to superconductivity in electron-doped BaFe2−xNixAs2
+  title_zh: 铬杂质对电子掺杂 BaFe2−xNixAs2 超导性的影响
+  authors: Rui Zhang; Dongliang Gong; Xingye Lu; Shiliang Li; Pengcheng Dai; Huiqian Luo*
+  citation: Superconductor Science and Technology 27, 115003 (2014).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/27/11/115003
+  url: https://doi.org/10.1088/0953-2048/27/11/115003
+- id: bnu-23
+  year: 2013
+  title: Doping dependence of spin excitations and its correlations with high-temperature superconductivity in iron
+    pnictides
+  title_zh: 铁砷化物中自旋激发的掺杂依赖性及其与高温超导的关联
+  authors: Meng Wang#; Chenglin Zhang#; Xingye Lu#; Guotai Tan; Huiqian Luo; Yu Song; Miaoyin Wang; Xiaotian
+    Zhang; Evgeny A. Goremychkin; Toby G. Perring; Thomas A. Maier; Zhiping Yin; Kristjan Haule; Gabriel Kotliar;
+    Pengcheng Dai*
+  citation: Nature Communications 4, 2874 (2013).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1038/ncomms3874
+  url: https://doi.org/10.1038/ncomms3874
+- id: bnu-22
+  year: 2013
+  title: Avoided quantum criticality and magnetoelastic coupling in BaFe2-xNixAs2
+  title_zh: BaFe2-xNixAs2 中被避免的量子临界性与磁弹耦合
+  authors: Xingye Lu; Hlynur Gretarsson; Rui Zhang; Xuerong Liu; Huiqian Luo; Wei Tian; Mark Laver; Zahra Yamani;
+    Young-June Kim; Andriy H. Nevidomskyy; Qimiao Si; Pengcheng Dai*
+  citation: Physical Review Letters 110, 257001 (2013).
+  kind: paper
+  status: published
+  highlight: true
+  doi: 10.1103/PhysRevLett.110.257001
+  url: https://doi.org/10.1103/PhysRevLett.110.257001
+- id: bnu-21
+  year: 2013
+  title: Electron doping evolution of the magnetic excitations in BaFe2-xNixAs2
+  title_zh: BaFe2-xNixAs2 中磁激发的电子掺杂演化
+  authors: Huiqian Luo#; Xingye Lu#; Rui Zhang; Meng Wang; Evgeny A. Goremychkin; Devashibhai T. Adroja; Sergey
+    Danilkin; Guochu Deng; Zahra Yamani; Pengcheng Dai*
+  citation: Physical Review B 88, 144516 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.88.144516
+  url: https://doi.org/10.1103/PhysRevB.88.144516
+- id: bnu-20
+  year: 2013
+  title: Distinguishing s± and s++ electron pairing symmetries by neutron spin resonance in superconducting NaFe0.935Co0.045As
+  title_zh: 利用超导 NaFe0.935Co0.045As 中的中子自旋共振区分 s± 与 s++ 电子配对对称性
+  authors: Chenglin Zhang; Hai-Feng Li; Yu Song; Yixi Su; Guotai Tan; Tucker Netherton; Caleb Redding; Scott
+    V. Carr; Oleg Sobolev; Astrid Schneidewind; Enrico Faulhaber; Leland W. Harriger; Shiliang Li; Xingye Lu;
+    Dao-Xin Yao; Tanmoy Das; Alexander V. Balatsky; Thomas Brückel; Jeffrey W. Lynn; Pengcheng Dai*
+  citation: Physical Review B 88, 064504 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.88.064504
+  url: https://doi.org/10.1103/PhysRevB.88.064504
+- id: bnu-19
+  year: 2013
+  title: Uniaxial pressure effect on structural and magnetic phase transitions in NaFeAs and its comparison with
+    as-grown and annealed BaFe2As2
+  title_zh: 单轴压力对 NaFeAs 结构与磁相变的影响及其与原生和退火 BaFe2As2 的比较
+  authors: Yu Song; Scott V. Carr; Xingye Lu; Chenglin Zhang; Zachary C. Sims; Nicolas F. Luttrell; Songxue
+    Chi; Yang Zhao; Jeffrey W. Lynn; Pengcheng Dai*
+  citation: Physical Review B 87, 184511 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.87.184511
+  url: https://doi.org/10.1103/PhysRevB.87.184511
+- id: bnu-18
+  year: 2013
+  title: Paramagnetic spin excitations in insulating Rb0.8Fe1.6Se2
+  title_zh: 绝缘体 Rb0.8Fe1.6Se2 中的顺磁自旋激发
+  authors: Miaoyin Wang; Xingye Lu; Russell A. Ewings; Leland W. Harriger; Yu Song; Scott V. Carr; Chunhong
+    Li; Rui Zhang; Pengcheng Dai*
+  citation: Physical Review B 87, 064409 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.87.064409
+  url: https://doi.org/10.1103/PhysRevB.87.064409
+- id: bnu-17
+  year: 2013
+  title: Critical and Gaussian conductivity fluctuations in a BaFe1.9Ni0.1As2 superconductor
+  title_zh: BaFe1.9Ni0.1As2 超导体中的临界与高斯电导涨落
+  authors: Said Salem-Sugui Jr.; Ana Paula Dornelles Alvarenga; Ramón Iglesias Rey; Jesús Mosqueira; Huiqian
+    Luo; Xingye Lu
+  citation: Superconductor Science and Technology 26, 125019 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/26/12/125019
+  url: https://doi.org/10.1088/0953-2048/26/12/125019
+- id: bnu-16
+  year: 2013
+  title: Measurements of the fluctuation-induced in-plane magnetoconductivity at high reduced temperatures and magnetic
+    fields in the iron arsenide BaFe2−xNixAs2
+  title_zh: 在高约化温度与磁场下测量铁砷化物 BaFe2−xNixAs2 中涨落诱导的面内磁电导
+  authors: Ramón Iglesias Rey; Carlos Carballeira; Jesús Mosqueira*; Said Salem-Sugui Jr.; Ana Paula Dornelles
+    Alvarenga; Huiqian Luo; Xingye Lu; Yanchao Chen; Félix Vidal
+  citation: Superconductor Science and Technology 26, 055004 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/26/5/055004
+  url: https://doi.org/10.1088/0953-2048/26/5/055004
+- id: bnu-15
+  year: 2013
+  title: Vortex dynamics as a function of field orientation in BaFe1.9Ni0.1As2
+  title_zh: BaFe1.9Ni0.1As2 中涡旋动力学对磁场方向的依赖性
+  authors: Said Salem-Sugui Jr.*; Luis Ghivelder; Ana Paula Dornelles Alvarenga; Lesley F. Cohen; Huiqian Luo;
+    Xingye Lu
+  citation: Superconductor Science and Technology 26, 025006 (2013).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/26/2/025006
+  url: https://doi.org/10.1088/0953-2048/26/2/025006
+- id: bnu-14
+  year: 2012
+  title: Coexistence and Competition of the Short-Range Incommensurate Antiferromagnetic Order with the Superconducting
+    State of BaFe2-xNixAs2
+  title_zh: BaFe2-xNixAs2 中短程非公度反铁磁有序与超导态的共存及竞争
+  authors: Huiqian Luo; Rui Zhang; Mark Laver; Zahra Yamani; Meng Wang; Xingye Lu; Miaoyin Wang; Yanchao Chen;
+    Shiliang Li; Sung Chang; Jeffrey W. Lynn; Pengcheng Dai*
+  citation: Physical Review Letters 108, 247002 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.108.247002
+  url: https://doi.org/10.1103/PhysRevLett.108.247002
+- id: bnu-13
+  year: 2012
+  title: Electron-boson coupling and two superconducting gaps in optimally electron-doped BaFe1.9Ni0.1As2 single
+    crystals
+  title_zh: 最佳电子掺杂 BaFe1.9Ni0.1As2 单晶中的电子—玻色子耦合与两个超导能隙
+  authors: Zhao-Sheng Wang; Zhen-Yu Wang; Hui-Qian Luo; Xing-Ye Lu; Jun Zhu; Chun-Hong Li; Lei Shan; Huan Yang;
+    Hai-Hu Wen; Cong Ren*
+  citation: Physical Review B 86, 060508 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.86.060508
+  url: https://doi.org/10.1103/PhysRevB.86.060508
+- id: bnu-12
+  year: 2012
+  title: Electron doping evolution of the anisotropic spin excitations in BaFe2−xNixAs2
+  title_zh: BaFe2−xNixAs2 中各向异性自旋激发的电子掺杂演化
+  authors: Huiqian Luo; Zahra Yamani; Yanchao Chen; Xingye Lu; Meng Wang; Shiliang Li; Thomas A. Maier; Sergey
+    Danilkin; Devashibhai T. Adroja; Pengcheng Dai*
+  citation: Physical Review B 86, 024508 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.86.024508
+  url: https://doi.org/10.1103/PhysRevB.86.024508
+- id: bnu-11
+  year: 2012
+  title: Neutron scattering studies of spin excitations in superconducting Rb0.82Fe1.68Se2
+  title_zh: 超导 Rb0.82Fe1.68Se2 中自旋激发的中子散射研究
+  authors: Miaoyin Wang; Chunhong Li; Douglas L. Abernathy; Yu Song; Scott V. Carr; Xingye Lu; Shiliang Li;
+    Zahra Yamani; Jiangping Hu; Tao Xiang; Pengcheng Dai*
+  citation: Physical Review B 86, 024502 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.86.024502
+  url: https://doi.org/10.1103/PhysRevB.86.024502
+- id: bnu-10
+  year: 2012
+  title: Polarized neutron scattering studies of magnetic excitations in electron-overdoped superconducting BaFe1.85Ni0.15As2
+  title_zh: 电子过掺杂超导 BaFe1.85Ni0.15As2 中磁激发的极化中子散射研究
+  authors: Mengshu Liu; Chris Lester; Jiri Kulda; Xingye Lu; Huiqian Luo; Meng Wang; Stephen M. Hayden; Pengcheng
+    Dai*
+  citation: Physical Review B 85, 214516 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.85.214516
+  url: https://doi.org/10.1103/PhysRevB.85.214516
+- id: bnu-9
+  year: 2012
+  title: 'Scaling of the physical properties in Ba(Fe,Ni)2As2 single crystals: Evidence for quantum fluctuations'
+  title_zh: Ba(Fe,Ni)2As2 单晶物理性质的标度关系：量子涨落的证据
+  authors: Pierre Rodière; Thierry Klein; Louis Lemberger; Klaus Hasselbach; Albin Demuer; Jozef Kačmarčík;
+    Zhao-Sheng Wang; Huiqian Luo; Xingye Lu; Hai-Hu Wen; Filip Gucmann; Christophe Marcenat
+  citation: Physical Review B 85, 214506 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.85.214506
+  url: https://doi.org/10.1103/PhysRevB.85.214506
+- id: bnu-8
+  year: 2012
+  title: Elastic anomalies in BaFe2-xNixAs2 crystals
+  title_zh: BaFe2-xNixAs2 晶体中的弹性异常
+  authors: Michel Saint-Paul*; Abdellatif Abbassi; Zhao-Sheng Wang; Huiqian Luo; Xingye Lu; Cong Ren; Hai-Hu
+    Wen; Klaus Hasselbach
+  citation: Physica C 483, 207 (2012).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1016/j.physc.2012.09.009
+  url: https://doi.org/10.1016/j.physc.2012.09.009
+  title_aliases:
+  - Elastic anomaly in BaFe2-xNixAs2 crystals
+- id: bnu-7
+  year: 2011
+  title: Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting RbyFe1.6+xSe2
+  title_zh: 非超导与超导 RbyFe1.6+xSe2 中的反铁磁有序与超晶格结构
+  authors: Meng Wang; Miaoyin Wang; Guan-Nan Li; Qingzhen Huang; Chunhong Li; Guotai Tan; Chenglin Zhang; Huibo
+    Cao; Wei Tian; Yang Zhao; Yanchao Chen; Xingye Lu; Bin Sheng; Huiqian Luo; Shiliang Li; Minghu Fang; Jerel
+    L. Zarestky; William Ratcliff; Mark D. Lumsden; Jeffrey W. Lynn; Pengcheng Dai*
+  citation: Physical Review B 84, 094504 (2011).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.84.094504
+  url: https://doi.org/10.1103/PhysRevB.84.094504
+- id: bnu-6
+  year: 2011
+  title: Fishtail and vortex dynamics in the Ni-doped iron pnictide BaFe1.82Ni0.18As2
+  title_zh: 镍掺杂铁基超导体 BaFe1.82Ni0.18As2 中的鱼尾效应与涡旋动力学
+  authors: Said Salem-Sugui Jr.; Luis Ghivelder; Ana Paula Dornelles Alvarenga; Lesley F. Cohen; Huiqian Luo;
+    Xingye Lu
+  citation: Physical Review B 84, 052510 (2011).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.84.052510
+  url: https://doi.org/10.1103/PhysRevB.84.052510
+- id: bnu-5
+  year: 2011
+  title: Effect of the in-plane magnetic field on the neutron spin resonance in optimally doped FeSe0.4Te0.6 and
+    BaFe1.9Ni0.1As2 superconductors
+  title_zh: 面内磁场对最佳掺杂 FeSe0.4Te0.6 和 BaFe1.9Ni0.1As2 超导体中中子自旋共振的影响
+  authors: Shiliang Li*; Xingye Lu; Meng Wang; Hui-qian Luo; Miaoyin Wang; Chenglin Zhang; Enrico Faulhaber;
+    Louis-Pierre Regnault; Deepak Singh; Pengcheng Dai*
+  citation: Physical Review B 84, 024518 (2011).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevB.84.024518
+  url: https://doi.org/10.1103/PhysRevB.84.024518
+- id: bnu-4
+  year: 2011
+  title: Systematic growth of BaFe2-xNixAs2 large crystals
+  title_zh: BaFe2-xNixAs2 大尺寸晶体的系统生长
+  authors: Yanchao Chen; Xingye Lu; Meng Wang; Huiqian Luo*; Shiliang Li*
+  citation: Superconductor Science and Technology 24, 065004 (2011).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1088/0953-2048/24/6/065004
+  url: https://doi.org/10.1088/0953-2048/24/6/065004
+- id: bnu-3
+  year: 2011
+  title: Buffer-layer-enhanced magnetic field effect in La0.5Ca0.5MnO3/LaMnO3/SrTiO3:Nb heterojunctions
+  title_zh: La0.5Ca0.5MnO3/LaMnO3/SrTiO3:Nb 异质结中缓冲层增强的磁场效应
+  authors: Weiwei Gao*; Jirong Sun; Xingye Lu; Dashan Shang; Jing Wang; Fengxia Hu; Baogen Shen
+  citation: Journal of Applied Physics 109, 07C729 (2011).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1063/1.3562916
+  url: https://doi.org/10.1063/1.3562916
+- id: bnu-2
+  year: 2010
+  title: Normal-state hourglass dispersion of the spin excitations in FeSexTe1-x
+  title_zh: FeSexTe1-x 中自旋激发的正常态沙漏形色散
+  authors: Shiliang Li; Chenglin Zhang; Meng Wang; Hui-qian Luo; Xingye Lu; Enrico Faulhaber; Astrid Schneidewind;
+    Peter Link; Jiangping Hu; Tao Xiang; Pengcheng Dai*
+  citation: Physical Review Letters 105, 157002 (2010).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1103/PhysRevLett.105.157002
+  url: https://doi.org/10.1103/PhysRevLett.105.157002
+- id: bnu-1
+  year: 2010
+  title: Effect of temperature on the La1-xCaxMnO3/SrTiO3:Nb(x=0–0.75) heterojunctions
+  title_zh: 温度对 La1-xCaxMnO3/SrTiO3:Nb（x=0–0.75）异质结的影响
+  authors: Xingye Lu; Jirong Sun*; Aidong Wei; Weiwei Gao; Dashan Shang; Jing Wang; Zhihong Wang; Baogen Shen
+  citation: Applied Physics Letters 97, 022502 (2010).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1063/1.3462322
+  url: https://doi.org/10.1063/1.3462322

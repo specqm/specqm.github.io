@@ -1,0 +1,5 @@
+<footer id="footer" class="panel site-footer"><div class="panel-footer"><div class="container-fluid"><div class="row">
+  <div class="col-sm-4"><p>© {{ 'now' | date: '%Y' }} {{ group.name[lang] }}</p></div>
+  <div class="col-sm-4"><p>{% include institutional-text.html text=t.university %}<br>{% assign footer_affiliation = t.contact_description | remove: ' · 高等量子研究中心' | remove: ' · Center for Advanced Quantum Studies' %}{% include institutional-text.html text=footer_affiliation %}<br><a href="{{ group.pi.profile_url }}" rel="noopener noreferrer" target="_blank">{{ t.faculty_profile }}</a></p></div>
+  <div class="col-sm-4"><p>{{ t.contact }}:<br>Email: <a href="mailto:{{ group.pi.email | escape }}">{{ group.pi.email | escape }}</a><br>Tel: <a href="tel:{{ group.pi.phone | remove: '-' | escape }}">{{ group.pi.phone | escape }}</a><br>{% if lang == 'zh' %}地址：{% else %}Address: {% endif %}{{ group.contact.address[lang] | escape }}<br>{{ t.postcode }}: {{ group.contact.postcode }}</p></div>
+</div></div></div></footer>
