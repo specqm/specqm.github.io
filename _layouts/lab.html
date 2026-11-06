@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: 'zh' %}
+{% assign t = site.data.i18n[lang] %}
+{% assign group = site.data.group %}
+{% include lab-page.html %}
+{{ content }}

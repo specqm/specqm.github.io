@@ -1,0 +1,23 @@
+{%- comment -%}Pass plain text or Markdown without existing links; never pass rendered HTML.{%- endcomment -%}
+{%- assign institutional_text = include.text | default: '' | escape -%}
+{%- capture school_full_zh -%}<a href="https://physics.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">北京师范大学物理与天文学院</a>{%- endcapture -%}
+{%- capture school_full_en -%}<a href="https://physics.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">School of Physics and Astronomy, Beijing Normal University</a>{%- endcapture -%}
+{%- capture school_full_en_prefix -%}<a href="https://physics.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">Beijing Normal University, School of Physics and Astronomy</a>{%- endcapture -%}
+{%- capture university_zh -%}<a href="https://www.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">北京师范大学</a>{%- endcapture -%}
+{%- capture school_zh -%}<a href="https://physics.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">物理与天文学院</a>{%- endcapture -%}
+{%- capture university_en -%}<a href="https://www.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">Beijing Normal University</a>{%- endcapture -%}
+{%- capture school_en -%}<a href="https://physics.bnu.edu.cn/" rel="noopener noreferrer" target="_blank">School of Physics and Astronomy</a>{%- endcapture -%}
+{%- capture foundation_zh -%}<a href="https://www.nsfc.gov.cn/" rel="noopener noreferrer" target="_blank">国家自然科学基金</a>{%- endcapture -%}
+{%- capture foundation_en -%}<a href="https://www.nsfc.gov.cn/" rel="noopener noreferrer" target="_blank">National Natural Science Foundation of China</a>{%- endcapture -%}
+{%- capture foundation_short -%}<a href="https://www.nsfc.gov.cn/" rel="noopener noreferrer" target="_blank">NSFC</a>{%- endcapture -%}
+{%- capture ministry_zh -%}<a href="https://www.most.gov.cn/index.html" rel="noopener noreferrer" target="_blank">科技部</a>{%- endcapture -%}
+{%- capture ministry_en -%}<a href="https://www.most.gov.cn/index.html" rel="noopener noreferrer" target="_blank">Ministry of Science and Technology</a>{%- endcapture -%}
+{%- capture ministry_short -%}<a href="https://www.most.gov.cn/index.html" rel="noopener noreferrer" target="_blank">MOST</a>{%- endcapture -%}
+{%- comment -%}Resolve full names before shorter names; expand tokens only after every text match.{%- endcomment -%}
+{%- assign institutional_text = institutional_text | replace: '北京师范大学物理与天文学院', '@@org01@@' | replace: 'School of Physics and Astronomy, Beijing Normal University', '@@org02@@' | replace: 'Beijing Normal University, School of Physics and Astronomy', '@@org03@@' | replace: '北京师范大学', '@@org04@@' | replace: '物理与天文学院', '@@org05@@' | replace: 'Beijing Normal University', '@@org06@@' | replace: 'School of Physics and Astronomy', '@@org07@@' | replace: '国家自然科学基金', '@@org08@@' | replace: 'National Natural Science Foundation of China', '@@org09@@' | replace: 'NSFC', '@@org10@@' | replace: '科技部', '@@org11@@' | replace: 'Ministry of Science and Technology', '@@org12@@' | replace: 'MOST', '@@org13@@' -%}
+{%- assign institutional_text = institutional_text | replace: '@@org01@@', school_full_zh | replace: '@@org02@@', school_full_en | replace: '@@org03@@', school_full_en_prefix | replace: '@@org04@@', university_zh | replace: '@@org05@@', school_zh | replace: '@@org06@@', university_en | replace: '@@org07@@', school_en | replace: '@@org08@@', foundation_zh | replace: '@@org09@@', foundation_en | replace: '@@org10@@', foundation_short | replace: '@@org11@@', ministry_zh | replace: '@@org12@@', ministry_en | replace: '@@org13@@', ministry_short -%}
+{%- if include.markdown -%}
+{{- institutional_text | markdownify | strip -}}
+{%- else -%}
+{{- institutional_text -}}
+{%- endif -%}

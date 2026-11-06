@@ -1,0 +1,29 @@
+# Exact contexts distinguish scientific symbols from ordinary text and elements.
+- text: d-spacing
+  html: <i>d</i>-spacing
+- text: c-axis
+  html: <i>c</i>-axis
+- text: ' c 轴'
+  html: ' <i>c</i> 轴'
+- text: α-
+  html: <i>α</i>-
+- text: of Tc
+  html: of <i>T</i><sub>c</sub>
+- text: Tc 探测
+  html: <i>T</i><sub>c</sub> 探测
+- text: s±
+  html: <i>s</i><sub>±</sub>
+- text: s++
+  html: <i>s</i><sub>++</sub>
+- text: 0.5≤x≤1
+  html: 0.5≤<i>x</i>≤1
+- text: x=0–0.75
+  html: <i>x</i>=0–0.75
+- text: A=Ba,Sr
+  html: <i>A</i>=Ba,Sr
+- text: A=Ba、Sr
+  html: <i>A</i>=Ba、Sr
+- text: T=Co,Ni
+  html: <i>T</i>=Co,Ni
+- text: T=Co、Ni
+  html: <i>T</i>=Co、Ni

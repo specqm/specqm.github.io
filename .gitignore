@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+.bundle/
+Gemfile.lock
+vendor/
+/workspace/
+/scratch/
+*.log
+*.tmp
+*.bak
