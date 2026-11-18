@@ -1,3 +1,16 @@
+- id: scholar-3NQIlFlcGxIC
+  year: 2026
+  title: Spin correlations in La3Ni2O7 thin films
+  title_zh: La3Ni2O7 薄膜中的自旋关联
+  authors: Hengyang Zhong; Bo Hao; Zhijia Zhang; Anni Chen; Yuan Wei; Ruixian Liu; Xinru Huang; Chunyi Li; Wenting
+    Zhang; Chang Liu; Xiao-Sheng Ni; Marli dos Reis Cantarino; Kurt Kummer; Nicholas B. Brookes; Kun Cao; Yuefeng
+    Nie; Thorsten Schmitt; Xingye Lu
+  citation: npj Quantum Materials (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.1038/s41535-026-00953-w
+  url: https://doi.org/10.1038/s41535-026-00953-w
 - id: scholar-1yWc8FF-_SYC
   year: 2026
   title: c-axis strain tuning of superconductivity and symmetric elastoresistivity in CsV3Sb5
@@ -37,6 +50,17 @@
   highlight: false
   doi: 10.1038/s41535-026-00947-8
   url: https://doi.org/10.1038/s41535-026-00947-8
+- id: user-aps-75-20260632
+  year: 2026
+  title: Magnetic structure of the iron-based superconductor derived system CaCo2As2
+  title_zh: 铁基超导体衍生体系 CaCo2As2 的磁结构
+  authors: Zening Qi; Wang Yuan; Erxi Feng; Huibo Cao; Xingye Lu
+  citation: Acta Physica Sinica 75, 190712 (2026).
+  kind: paper
+  status: published
+  highlight: false
+  doi: 10.7498/aps.75.20260632
+  url: https://doi.org/10.7498/aps.75.20260632
 - id: scholar-SjuI4pbJlxcC
   year: 2026
   title: Twinning of domains and spin anisotropy in K5Fe4Ag6Te10
@@ -66,17 +90,6 @@
   - Winding feature and thermal evolution of the Dirac magnons in CrI3
   title_aliases_zh:
   - CrI3 中狄拉克磁振子的绕转特征与热演化
-- id: user-aps-75-20260632
-  year: 2026
-  title: Magnetic structure of the iron-based superconductor derived system CaCo2As2
-  title_zh: 铁基超导体衍生体系 CaCo2As2 的磁结构
-  authors: Zening Qi; Wang Yuan; Erxi Feng; Huibo Cao; Xingye Lu
-  citation: Acta Physica Sinica 75, 190712 (2026).
-  kind: paper
-  status: published
-  highlight: false
-  doi: 10.7498/aps.75.20260632
-  url: https://doi.org/10.7498/aps.75.20260632
 - id: scholar-WC9gN4BGCRcC
   year: 2026
   title: Nematic spin correlations and orbital-selective spin excitations in iron-based superconductors
@@ -268,26 +281,6 @@
   highlight: false
   doi: 10.1021/acs.jpcc.4c06870
   url: https://doi.org/10.1021/acs.jpcc.4c06870
-- id: scholar-3NQIlFlcGxIC
-  year: 2025
-  title: Spin correlations in La3Ni2O7 thin films
-  title_zh: La3Ni2O7 薄膜中的自旋关联
-  authors: Hengyang Zhong; Bo Hao; Zhijia Zhang; Anni Chen; Yuan Wei; Ruixian Liu; Xinru Huang; Chunyi Li; Wenting
-    Zhang; Chang Liu; Xiao-Sheng Ni; Marli dos Reis Cantarino; Kurt Kummer; Nicholas Brookes; Kun Cao; Yuefeng Nie;
-    Thorsten Schmitt; Xingye Lu
-  citation: arXiv:2502.03178 (2025).
-  kind: paper
-  status: preprint
-  highlight: false
-  url: https://arxiv.org/abs/2502.03178
-  arxiv_id: '2502.03178'
-  arxiv_url: https://arxiv.org/abs/2502.03178
-  title_aliases:
-  - Spin correlations in La3Ni2O7 superconducting thin films
-  - Epitaxial strain tuning of electronic and spin excitations in La3Ni2O7 thin films
-  title_aliases_zh:
-  - La3Ni2O7 超导薄膜中的自旋关联
-  - La3Ni2O7 薄膜中电子与自旋激发的外延应变调控
 - id: scholar-FiytvqdAVhgC
   year: 2024
   title: Double magnon-roton excitations in the triangular-lattice spin supersolid
